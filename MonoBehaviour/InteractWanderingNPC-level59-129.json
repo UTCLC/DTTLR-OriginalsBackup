@@ -1,0 +1,119 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1462
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* I could explain what the\\n  <color=#FFFF00FF>hospital system</color> is about...",
+      "* But you guys don't seem\\n  like the kind of people that\\n  would use it.",
+      "* Yeah...^05 something about you\\n  screams \"autoheal when\\n  knocked out...\"",
+      "* I imagine the only thing of\\n  use would be the healer,^05\\n  who can heal concussions.",
+      "* But if he's gone,^05 then\\n  you'd just have to deal\\n  with it."
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_text",
+      "snd_text",
+      "snd_text",
+      "snd_text",
+      "snd_text"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 0,
+  "lines2": {
+    "Array": [
+      "* Hey man,^05 no judging!",
+      "* What if I judged YOUR\\n  religion?",
+      "* Dude,^05 if you're doing\\n  stuff like sacrifices,^05\\n  you're in a cult.",
+      "* You aren't doing doing\\n  sacrifices,^05 right?",
+      "* ..."
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_text",
+      "snd_text",
+      "snd_txtsus",
+      "snd_txtsus",
+      "snd_text"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": [
+      "",
+      "",
+      "su_annoyed",
+      "su_side_sweat",
+      ""
+    ]
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": 0,
+  "triggerFlag": -1,
+  "forceSecondaryAtFlag": -1,
+  "talkSprites": {
+    "Array": []
+  },
+  "talkFramerate": 6,
+  "maxPos": {
+    "x": 4.32,
+    "y": -0.36,
+    "z": 0.0
+  },
+  "minPos": {
+    "x": 0.02,
+    "y": -2.69,
+    "z": 0.0
+  },
+  "waitLength": 60,
+  "walkLength": 15,
+  "walkSpeed": 3,
+  "sortingOrderOffset": 1,
+  "forceDisableWander": 0,
+  "defaultLook": {
+    "x": 0.0,
+    "y": -1.0
+  }
+}

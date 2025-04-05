@@ -1,0 +1,101 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 15
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1472
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* No,^05 I didn't do it.",
+      "* I'm surprised it wasn't to\\n  get that skeleton guy away\\n  from the lower part of Snowdin.",
+      "* No...^10 it was the skeleton guy\\n  himself that cut the rope\\n  to town.",
+      "* Great."
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_text",
+      "snd_text",
+      "snd_text",
+      "snd_txtsus"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "",
+      "",
+      "",
+      "su_inquisitive"
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 1,
+  "lines2": {
+    "Array": [
+      "* So what was the\\n  rope for, exactly...?",
+      "* It's to help with climbing\\n  this super steep cliff-face.",
+      "* It's there to avoid people\\n  from getting lost in the\\n  forest to get to town.",
+      "* I don't know why they didn't\\n  just add a staircase,^05 or even\\n  just make a path to town.",
+      "* But I'm pretty sure it\\n  wasn't even the government that\\n  installed the rope.",
+      "* Well this sucks."
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_txtnoe",
+      "snd_text",
+      "snd_text",
+      "snd_text",
+      "snd_text",
+      "snd_txtsus"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": [
+      "no_curious",
+      "",
+      "",
+      "",
+      "",
+      "su_annoyed"
+    ]
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": 0,
+  "triggerFlag": -1,
+  "forceSecondaryAtFlag": -1,
+  "talkSprites": {
+    "Array": [
+      {
+        "m_FileID": 2,
+        "m_PathID": 8453
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 8846
+      }
+    ]
+  },
+  "talkFramerate": 6
+}

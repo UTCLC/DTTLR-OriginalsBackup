@@ -1,0 +1,19 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 225
+  },
+  "m_Name": "",
+  "newScene": 64,
+  "newPos": {
+    "x": 0.0,
+    "y": -6.0
+  },
+  "vertical": 1,
+  "downOrLeft": 0
+}

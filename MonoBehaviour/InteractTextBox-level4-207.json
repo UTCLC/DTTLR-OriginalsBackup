@@ -1,0 +1,96 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 14
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1472
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* What are you DOING!?",
+      "* This is the third time\\n  I've caught you snooping\\n  around!",
+      "* How the hell did you\\n  even get here?",
+      "* H-hey!\\n* That's none of your\\n  business, hothead!",
+      "* Umm, yes it is???",
+      "* You keep refusing to\\n  show us a way out!",
+      "* You say that as if\\n  that old geezer hasn't\\n  tried leaving already.",
+      "* Besides, I don't need\\n  you trying to kill\\n  me or the doc.",
+      "* Get outta here before\\n  I bash your head in!",
+      "* Or should I burn your\\n  roots instead?",
+      "* Fine, fine!!!\\n* I'm leaving!!!"
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_txtdes",
+      "snd_txtdes",
+      "snd_txtdes",
+      "snd_txtflw",
+      "snd_txtdes",
+      "snd_txtdes",
+      "snd_txtflw",
+      "snd_txtdes",
+      "snd_txtdes",
+      "snd_txtdes",
+      "snd_txtflw"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "dess_mad",
+      "dess_murderous_thought",
+      "dess_murderous_side",
+      "flowey_fear",
+      "dess_mad",
+      "dess_frustrated",
+      "flowey_sassy",
+      "dess_annoyed",
+      "dess_murderous_thought",
+      "dess_mischevious",
+      "flowey_fear"
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 0,
+  "lines2": {
+    "Array": [
+      "* [NO_TEXT]"
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_text"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": []
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": 0,
+  "triggerFlag": -1,
+  "forceSecondaryAtFlag": -1,
+  "talkSprites": {
+    "Array": []
+  },
+  "talkFramerate": 6
+}

@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 21539
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 2,
+    "m_PathID": 1029
+  },
+  "m_Name": "",
+  "musicName": "",
+  "hasIntro": 0,
+  "isPlaying": 0,
+  "isOverlap": 0,
+  "isOverlapMaxFrames": 0
+}

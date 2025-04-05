@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 18791
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 2,
+    "m_PathID": 447
+  },
+  "m_Name": "",
+  "sprites": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 11318
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 12389
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 8582
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 8216
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 9510
+      }
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 17
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1472
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* I'm sure it'd be fine if\\n  you slept upstairs again...",
+      "* But something tells me that\\n  you're very limited on time,^05\\n  so I wouldn't recommend it.",
+      "* What if there's a\\n  MONSTER under the bed!!!^05\\n* Let's NOT!!!",
+      "* I think Kris would\\n  like that, actually."
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_text",
+      "snd_text",
+      "snd_txtsus",
+      "snd_txtnoe"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "",
+      "",
+      "su_angry",
+      "no_tease_finger"
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 1,
+  "lines2": {
+    "Array": [
+      "* Kris,^05 neither me nor\\n  Susie want to sleep for\\n  only two minutes.",
+      "* Yeah,^05 good luck trying\\n  to wake me up after\\n  two minutes."
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_txtnoe",
+      "snd_txtsus"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": [
+      "no_thinking",
+      "su_smile"
+    ]
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": 0,
+  "triggerFlag": -1,
+  "forceSecondaryAtFlag": -1,
+  "talkSprites": {
+    "Array": [
+      {
+        "m_FileID": 2,
+        "m_PathID": 12639
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 7335
+      }
+    ]
+  },
+  "talkFramerate": 6
+}

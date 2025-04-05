@@ -1,0 +1,129 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 11
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1472
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* (There's a dirty message\\n  written on the attached\\n  note.)",
+      "* \"For whoever may stumble\\n  upon this warning,^05 beware\\n  of the woods' beasts.",
+      "* \"They are fierce,^05 wild\\n  monsters that only wish\\n  to kill.",
+      "* \"It was apparently not like\\n  this centuries ago,^05 but...",
+      "* \"The ground feels more\\n  dusty than snowy.",
+      "* \"Even worse than all of\\n  this is the two-headed\\n  creature.",
+      "* \"This is the most dangerous\\n  of the monsters I have seen\\n  down here.",
+      "* \"It may not look like it\\n  at first,^05 but you can tell\\n  based on h\"",
+      "* Y'know,^05 I'm not really\\n  convinced by this.",
+      "* Kris,^05 your mom warned\\n  us about them,^05 but\\n  like...",
+      "* They were pretty\\n  harmless.",
+      "* But...^05 the ground...",
+      "* Okay, so?",
+      "* Unless some asshole\\n  comes charging towards\\n  us,^05 we're fine.",
+      "* ...^05 Okay, Susie."
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_text",
+      "snd_text",
+      "snd_text",
+      "snd_text",
+      "snd_text",
+      "snd_text",
+      "snd_text",
+      "snd_text",
+      "snd_txtsus",
+      "snd_txtsus",
+      "snd_txtsus",
+      "snd_txtnoe",
+      "snd_txtsus",
+      "snd_txtsus",
+      "snd_txtnoe"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "su_side",
+      "su_neutral",
+      "su_smirk_sweat",
+      "no_awe",
+      "su_annoyed",
+      "su_side",
+      "no_depressed"
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 1,
+  "lines2": {
+    "Array": [
+      "* (There's a dirty message\\n  written on the attached\\n  note.)",
+      "* \"For whoever may stumble\\n  upon this warning,^05 beware\\n  of the woods' beasts.",
+      "* \"They are fierce,^05 wild\\n  monsters that only wish\\n  to kill.",
+      "* \"It was apparently not like\\n  this centuries ago,^05 but...",
+      "* \"The ground feels more\\n  dusty than snowy.",
+      "* \"Even worse than all of\\n  this is the two-headed\\n  creature.",
+      "* \"This is the most dangerous\\n  of the monsters I have seen\\n  down here.",
+      "* \"It may not look like it\\n  at first,^05 but you can tell\\n  based on h\""
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_text",
+      "snd_text",
+      "snd_text",
+      "snd_text",
+      "snd_text",
+      "snd_text",
+      "snd_text",
+      "snd_text"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": []
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": 0,
+  "triggerFlag": 167,
+  "forceSecondaryAtFlag": 167,
+  "talkSprites": {
+    "Array": []
+  },
+  "talkFramerate": 6
+}

@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 20891
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 2,
+    "m_PathID": 1432
+  },
+  "m_Name": "",
+  "collisionMask": {
+    "m_Bits": 0
+  },
+  "horizontalRayCount": 4,
+  "verticalRayCount": 4
+}

@@ -1,0 +1,93 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1472
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* \"MONSTER HISTORY PART 4\"",
+      "* Fearing the humans no longer,^05\\n  we moved out of our old\\n  city,^05 HOME.",
+      "* We braved harsh cold,^05 damp\\n  swampland,^05 and searing heat...",
+      "* Until we reached what we now\\n  call our capital.",
+      "* \"NEW HOME.\"",
+      "* Again,^05 our King is really\\n  bad at names...?",
+      "* Sounds kinda like Asgore\\n  to me, fahaha!",
+      "* Well,^05 uhh...",
+      "* ...",
+      "* I forgot."
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_text",
+      "snd_text",
+      "snd_text",
+      "snd_text",
+      "snd_text",
+      "snd_text",
+      "snd_txtnoe",
+      "snd_txtsus",
+      "snd_txtsus",
+      "snd_txtsus"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "no_playful",
+      "su_smile_sweat",
+      "su_side",
+      "su_inquisitive"
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 0,
+  "lines2": {
+    "Array": [
+      "* [NO_TEXT]"
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_text"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": []
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": 0,
+  "triggerFlag": -1,
+  "forceSecondaryAtFlag": -1,
+  "talkSprites": {
+    "Array": []
+  },
+  "talkFramerate": 6
+}

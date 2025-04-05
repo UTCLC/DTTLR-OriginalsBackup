@@ -1,0 +1,104 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 20039
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 2,
+    "m_PathID": 1472
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* Man,^05 I'm so hungry...",
+      "* ...",
+      "* How hungry.",
+      "* Definitely not hungry enough\\n  to eat this spaghetti.",
+      "* Bet this was made by that\\n  tall skeleton man,^05 which means\\n  it sucks!",
+      "* ...",
+      "* More for me."
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_text",
+      "snd_txtnoe",
+      "snd_txtnoe",
+      "snd_text",
+      "snd_text",
+      "snd_txtsus",
+      "snd_txtsus"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "",
+      "no_afraid",
+      "no_realistic",
+      "",
+      "",
+      "su_side",
+      "su_smile"
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 1,
+  "lines2": {
+    "Array": [
+      "* Y'know what,^05 fine.",
+      "* I'll let you have it.",
+      "* ... If you can get it off\\n  the table,^05 that is.",
+      "* DAMN IT!!!"
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_text",
+      "snd_text",
+      "snd_text",
+      "snd_txtsus"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": [
+      "",
+      "",
+      "",
+      "su_angry"
+    ]
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": 0,
+  "triggerFlag": 235,
+  "forceSecondaryAtFlag": 235,
+  "talkSprites": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 7251
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 10946
+      }
+    ]
+  },
+  "talkFramerate": 6
+}

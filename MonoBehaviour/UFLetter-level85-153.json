@@ -1,0 +1,85 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 11
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 422
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* Okay dude,^05 I would NOT\\n  trust that letter.",
+      "* Who knows what kinda\\n  stuff he put in\\n  there???",
+      "* Just walk past it,^05\\n  Kris...",
+      "* (Open the letter?)"
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_txtsus",
+      "snd_txtsus",
+      "snd_txtnoe",
+      "snd_text"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "su_annoyed",
+      "su_side_sweat",
+      "no_silent",
+      ""
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "left": "Open",
+  "leftOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "right": "Do not",
+  "rightOffset": {
+    "x": 6.0,
+    "y": 0.0
+  },
+  "up": "",
+  "upOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "down": "",
+  "downOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "centerOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "talkSprites": {
+    "Array": []
+  },
+  "talkFramerate": 6,
+  "sprites": {
+    "Array": [
+      {
+        "m_FileID": 2,
+        "m_PathID": 7983
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 11914
+      }
+    ]
+  }
+}

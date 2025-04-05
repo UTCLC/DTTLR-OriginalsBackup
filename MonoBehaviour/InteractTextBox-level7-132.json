@@ -1,0 +1,98 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 20
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1472
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* Kris,^05 did that person\\n  FALL from up there???",
+      "* It looks like a\\n  little kid...",
+      "* Come on,^05 let's get\\n  them up and...",
+      "* ...",
+      "* Huh?^10\\n* Kris?",
+      "* Is something wrong?",
+      "* ...",
+      "* ...^05 Yeah,^05 you're right.^05\\n* We should probably\\n  get going.",
+      "* Toriel'll see what's up."
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_txtsus",
+      "snd_txtsus",
+      "snd_txtsus",
+      "snd_txtsus",
+      "snd_txtsus",
+      "snd_txtsus",
+      "snd_txtsus",
+      "snd_txtsus",
+      "snd_txtsus"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "su_side_sweat",
+      "su_concerned",
+      "su_shocked",
+      "su_surprised",
+      "su_neutral",
+      "su_neutral",
+      "su_neutral",
+      "su_dejected",
+      "su_smirk"
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 1,
+  "lines2": {
+    "Array": [
+      "* (Looks like they're asleep.)"
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_text"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": []
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": 0,
+  "triggerFlag": 250,
+  "forceSecondaryAtFlag": 250,
+  "talkSprites": {
+    "Array": []
+  },
+  "talkFramerate": 6
+}

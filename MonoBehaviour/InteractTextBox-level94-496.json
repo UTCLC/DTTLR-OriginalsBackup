@@ -1,0 +1,102 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 11
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1472
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* Kris,^05 I think I\\n  might remember the\\n  rules!",
+      "* So...^05 pink tiles don't\\n  do anything.",
+      "* Red tiles are basically\\n  walls.",
+      "* Yellow tiles are walls\\n  that hurt you.",
+      "* Orange tiles make you\\n  smell like oranges.",
+      "* Purple tiles make you\\n  go to the next\\n  tile...",
+      "* ... And make you smell\\n  like lemons.",
+      "* Blue tiles don't do\\n  anything if you don't\\n  smell like oranges.",
+      "* ... And if they aren't\\n  next to a yellow\\n  tile.",
+      "* It'll act like a\\n  yellow tile if it's\\n  next to one.",
+      "* And it'll otherwise\\n  be a wall if you\\n  smell like oranges.",
+      "* And white tiles will\\n  end the puzzle.",
+      "* That's what I took\\n  away from that,^05 so\\n  I hope that helps,^05 Kris."
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_txtnoe",
+      "snd_txtnoe",
+      "snd_txtnoe",
+      "snd_txtnoe",
+      "snd_txtnoe",
+      "snd_txtnoe",
+      "snd_txtnoe",
+      "snd_txtnoe",
+      "snd_txtnoe",
+      "snd_txtnoe",
+      "snd_txtnoe",
+      "snd_txtnoe",
+      "snd_txtnoe"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "no_confused",
+      "no_neutral",
+      "no_neutral",
+      "no_neutral",
+      "no_neutral",
+      "no_neutral",
+      "no_neutral",
+      "no_curious",
+      "no_thinking",
+      "no_curious",
+      "no_curious",
+      "no_neutral",
+      "no_happy"
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 0,
+  "lines2": {
+    "Array": [
+      "* [NO_TEXT]"
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_text"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": []
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": 0,
+  "triggerFlag": 239,
+  "forceSecondaryAtFlag": -1,
+  "talkSprites": {
+    "Array": []
+  },
+  "talkFramerate": 6
+}

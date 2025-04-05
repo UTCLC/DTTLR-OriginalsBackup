@@ -1,0 +1,150 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 12
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 203
+  },
+  "m_Name": "",
+  "lines": {
+    "Array": [
+      "* What's good my dude?",
+      "* Want a free test item?\\n\\n         Yes         No"
+    ]
+  },
+  "sound": {
+    "Array": [
+      "snd_text",
+      "snd_text"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0,
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "",
+      ""
+    ]
+  },
+  "eventType": 4,
+  "eventData": 0,
+  "optionA": "Yes",
+  "optionAItem": 0,
+  "optionALines": {
+    "Array": [
+      "* (You got the Test Food.)"
+    ]
+  },
+  "optionASound": {
+    "Array": [
+      "snd_text"
+    ]
+  },
+  "optionASpeed": {
+    "Array": [
+      0
+    ]
+  },
+  "optionAPortraits": {
+    "Array": [
+      ""
+    ]
+  },
+  "optionB": "No",
+  "optionBItem": -1,
+  "optionBLines": {
+    "Array": [
+      "* Sad."
+    ]
+  },
+  "optionBSound": {
+    "Array": [
+      "snd_text"
+    ]
+  },
+  "optionBSpeed": {
+    "Array": [
+      0
+    ]
+  },
+  "optionBPortraits": {
+    "Array": [
+      ""
+    ]
+  },
+  "ctmLines": {
+    "Array": [
+      "* (You're carrying too much.)"
+    ]
+  },
+  "ctmSound": {
+    "Array": [
+      "snd_text"
+    ]
+  },
+  "ctmSpeed": {
+    "Array": [
+      0
+    ]
+  },
+  "ctmPortraits": {
+    "Array": [
+      ""
+    ]
+  },
+  "defeatStealLines": {
+    "Array": []
+  },
+  "defeatStealSound": {
+    "Array": []
+  },
+  "defeatStealSpeed": {
+    "Array": []
+  },
+  "defeatStealPortraits": {
+    "Array": []
+  },
+  "defeatSaveLines": {
+    "Array": []
+  },
+  "defeatSaveSound": {
+    "Array": []
+  },
+  "defeatSaveSpeed": {
+    "Array": []
+  },
+  "defeatSavePortraits": {
+    "Array": []
+  },
+  "defeatKilledLines": {
+    "Array": []
+  },
+  "defeatKilledSound": {
+    "Array": []
+  },
+  "defeatKilledSpeed": {
+    "Array": []
+  },
+  "defeatKilledPortraits": {
+    "Array": []
+  },
+  "altLines": {
+    "Array": []
+  },
+  "altSounds": {
+    "Array": []
+  },
+  "altSpeed": {
+    "Array": []
+  },
+  "altPortraits": {
+    "Array": []
+  }
+}

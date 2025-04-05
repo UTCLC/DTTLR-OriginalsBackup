@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 18
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1324
+  },
+  "m_Name": "",
+  "doPhrase": 1,
+  "phrases": {
+    "Array": [
+      "* (You were easily able to\\n  take the elevator to the\\n  end of this strange place.)",
+      "* (You're filled with\\n  determination.)"
+    ]
+  },
+  "relativeSpawn": "left",
+  "force": 0,
+  "allowOblitModification": 1
+}

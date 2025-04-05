@@ -1,0 +1,96 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 13
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1472
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* Ribbit,^10 ribbit.\\n^10* (I heard using \"F4\" can make\\n  you have a \"full screen.\")",
+      "* (But what does \"F4\" stand for?)\\n* (\"Four frogs\"?)",
+      "* (I have only seen a maximum of\\n  three frogs in this room...)",
+      "* (This is troubling,^05 to say\\n  the least.)\\n* Ribbit."
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_text",
+      "snd_text",
+      "snd_text",
+      "snd_text"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 1,
+  "lines2": {
+    "Array": [
+      "* Where are the other\\n  two?",
+      "* Ribbit.\\n* (They're scared of you.)",
+      "* Then what about you?",
+      "* Ribbit, ribbit.\\n* (Just a gut feeling that you\\n  can't hurt me.)",
+      "* (Go on,^05 try it.)\\n* Ribbit."
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_txtsus",
+      "snd_text",
+      "snd_txtsus",
+      "snd_text",
+      "snd_text"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": [
+      "su_side",
+      "",
+      "su_inquisitive",
+      "",
+      ""
+    ]
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": 32,
+  "vanishAtCount": 3,
+  "triggerFlag": -1,
+  "forceSecondaryAtFlag": -1,
+  "talkSprites": {
+    "Array": []
+  },
+  "talkFramerate": 6
+}

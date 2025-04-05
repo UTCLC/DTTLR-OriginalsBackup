@@ -1,0 +1,101 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 16
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1472
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* Welcome to the library.",
+      "* You mean <color=#FFFF00FF>\"librarby\"</color>?",
+      "* No,^05 that's a misspelling.",
+      "* WHAT??!?^05\\n* I WAS LIED TO??!",
+      "* Please keep your voice down.",
+      "* (THE SCHOOL SYSTEM HAS\\n  FAILED US!!!)"
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_text",
+      "snd_txtsus",
+      "snd_text",
+      "snd_txtsus",
+      "snd_text",
+      "snd_txtsus"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "",
+      "su_annoyed",
+      "",
+      "su_wtf",
+      "",
+      "su_angry"
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 1,
+  "lines2": {
+    "Array": [
+      "* Susie,^05 you know that\\n  ours was also misspelled.",
+      "* It was going to be\\n  fixed next week.",
+      "* ...",
+      "* Oh."
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_txtnoe",
+      "snd_txtnoe",
+      "snd_txtsus",
+      "snd_txtsus"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": [
+      "no_confused_side",
+      "no_happy",
+      "su_neutral",
+      "su_inquisitive"
+    ]
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": 0,
+  "triggerFlag": -1,
+  "forceSecondaryAtFlag": -1,
+  "talkSprites": {
+    "Array": [
+      {
+        "m_FileID": 2,
+        "m_PathID": 8381
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 12382
+      }
+    ]
+  },
+  "talkFramerate": 6
+}

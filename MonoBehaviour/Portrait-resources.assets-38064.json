@@ -1,0 +1,19 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 19747
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 2,
+    "m_PathID": 1000
+  },
+  "m_Name": "",
+  "alwaysAnimate": 0,
+  "speed": 4,
+  "scale": 2,
+  "image": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

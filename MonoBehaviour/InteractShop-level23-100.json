@@ -1,0 +1,128 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1265
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "itemID": 11,
+  "price": 7,
+  "buyText": "Yes",
+  "rejectText": "No",
+  "lines": {
+    "Array": [
+      "* \"Spider Donuts - 7G\"\\n* Leave 7G in the web?"
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_text"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits": {
+    "Array": []
+  },
+  "remarks": {
+    "Array": []
+  },
+  "purchaseLines": {
+    "Array": [
+      "* Some spiders crawled down\\n  and gave you a donut.\\n* You put it in your ITEMs."
+    ]
+  },
+  "purchaseSounds": {
+    "Array": [
+      "snd_text"
+    ]
+  },
+  "purchaseSpeed": {
+    "Array": [
+      0
+    ]
+  },
+  "purchasePortraits": {
+    "Array": []
+  },
+  "purchaseRemarks": {
+    "Array": []
+  },
+  "rejectLines": {
+    "Array": [
+      "* Why are there spiders\\n  selling stuff,^05 anyway?"
+    ]
+  },
+  "rejectSounds": {
+    "Array": [
+      "snd_txtsus"
+    ]
+  },
+  "rejectSpeed": {
+    "Array": [
+      0
+    ]
+  },
+  "rejectPortraits": {
+    "Array": [
+      "su_side_sweat"
+    ]
+  },
+  "rejectRemarks": {
+    "Array": []
+  },
+  "noSpaceLines": {
+    "Array": [
+      "* You don't have enough space\\n  in your ITEMs."
+    ]
+  },
+  "noSpaceSounds": {
+    "Array": [
+      "snd_text"
+    ]
+  },
+  "noSpaceSpeed": {
+    "Array": [
+      0
+    ]
+  },
+  "noSpacePortraits": {
+    "Array": []
+  },
+  "noSpaceRemarks": {
+    "Array": []
+  },
+  "noMoneyLines": {
+    "Array": [
+      "* You didn't have enough\n  gold."
+    ]
+  },
+  "noMoneySounds": {
+    "Array": [
+      "snd_text"
+    ]
+  },
+  "noMoneySpeed": {
+    "Array": [
+      0
+    ]
+  },
+  "noMoneyPortraits": {
+    "Array": []
+  },
+  "noMoneyRemarks": {
+    "Array": []
+  },
+  "talkSprites": {
+    "Array": []
+  },
+  "talkFramerate": 6
+}

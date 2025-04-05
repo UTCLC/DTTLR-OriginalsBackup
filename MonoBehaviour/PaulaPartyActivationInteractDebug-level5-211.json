@@ -1,0 +1,64 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 18
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1473
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* Let me in, god damn\\n  it."
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_txtpau"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "pau_smile"
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "left": "Yes",
+  "leftOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "right": "No",
+  "rightOffset": {
+    "x": 28.0,
+    "y": 0.0
+  },
+  "up": "",
+  "upOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "down": "",
+  "downOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "centerOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "talkSprites": {
+    "Array": []
+  },
+  "talkFramerate": 6
+}

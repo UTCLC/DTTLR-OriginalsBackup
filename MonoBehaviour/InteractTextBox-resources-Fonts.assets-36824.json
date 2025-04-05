@@ -1,0 +1,81 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 18924
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 2,
+    "m_PathID": 1472
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* Robbit, robbit.^10\\n* (Are you impressed with how I\\n  fly through the air?)",
+      "* (I am able to avoid touching\\n  leaves on the ground.)",
+      "* Do you ever get\\n  tired,^05 though?",
+      "* ...^10\\n* (...)"
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_text",
+      "snd_text",
+      "snd_txtsus",
+      "snd_text"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "",
+      "",
+      "su_neutral",
+      ""
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 0,
+  "lines2": {
+    "Array": [
+      "* Ribbit,^10 ribbit.\\n^10* (To be honest,^10 I did step on\\n  the leaves.)",
+      "* (Don't tell anyone.)"
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_text",
+      "snd_text"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0,
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": []
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": 0,
+  "triggerFlag": -1,
+  "forceSecondaryAtFlag": -1,
+  "talkSprites": {
+    "Array": []
+  },
+  "talkFramerate": 6
+}

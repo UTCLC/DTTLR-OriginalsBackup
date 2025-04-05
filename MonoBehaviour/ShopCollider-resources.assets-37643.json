@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 19945
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 2,
+    "m_PathID": 327
+  },
+  "m_Name": "",
+  "hide": 1,
+  "shop": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "newPos": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "vertical": 1,
+  "downOrLeft": 1
+}

@@ -1,0 +1,88 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 25
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1472
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* Hey,^05 it's me!",
+      "* Wow,^05 this is pretty\\n  cu--",
+      "* ...",
+      "* This is what,^05 Susie?",
+      "* Uhhh...^05 it's cool.^05\\n* Yeah.",
+      "* Susie...?",
+      "* Let's just go!!!"
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_txtnoe",
+      "snd_txtsus",
+      "snd_txtsus",
+      "snd_txtnoe",
+      "snd_txtsus",
+      "snd_txtnoe",
+      "snd_txtsus"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "no_happy",
+      "su_smile",
+      "su_wideeye",
+      "no_curious",
+      "su_smirk_sweat",
+      "no_thinking",
+      "su_angry"
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 1,
+  "lines2": {
+    "Array": [
+      "* Yeah,^05 it's a cool\\n  sculpture.",
+      "* Now let's go."
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_txtsus"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": [
+      "su_annoyed",
+      "su_annoyed"
+    ]
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": 0,
+  "triggerFlag": 259,
+  "forceSecondaryAtFlag": 259,
+  "talkSprites": {
+    "Array": []
+  },
+  "talkFramerate": 6
+}

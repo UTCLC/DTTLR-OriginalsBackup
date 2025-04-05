@@ -1,0 +1,95 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 24
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1472
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* (It's a fridge.)\\n* (Open it?)",
+      "* Hey,^05 just because we let y'all\\n  sleep upstairs doesn't mean\\n  you can take what you want!",
+      "* Yeah,^05 Kris,^05 why don't\\n  we just get something\\n  from uh...",
+      "* What should we call\\n  him?^05\\n* Blue Sans?",
+      "* Pretty sure he's got\\n  some food."
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_text",
+      "snd_text",
+      "snd_txtsus",
+      "snd_txtsus",
+      "snd_txtsus"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "",
+      "",
+      "su_smile",
+      "su_inquisitive",
+      "su_smile_side"
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 1,
+  "lines2": {
+    "Array": [
+      "* What're we gonna call\\n  the bad guy Sans\\n  then?",
+      "* Prolly Red Sans.",
+      "* Then if there's a\\n  really weird jokey one,^05\\n  that'd be like...",
+      "* Green Sans or\\n  somethin'.",
+      "* But...^05 why green?",
+      "* Dunno.^05\\n* Just got a feeling\\n  he'd be green."
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_txtnoe",
+      "snd_txtsus",
+      "snd_txtsus",
+      "snd_txtsus",
+      "snd_txtnoe",
+      "snd_txtsus"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": [
+      "no_happy",
+      "su_neutral",
+      "su_side",
+      "su_smirk_sweat",
+      "no_thinking",
+      "su_inquisitive"
+    ]
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": 0,
+  "triggerFlag": -1,
+  "forceSecondaryAtFlag": -1,
+  "talkSprites": {
+    "Array": []
+  },
+  "talkFramerate": 6
+}

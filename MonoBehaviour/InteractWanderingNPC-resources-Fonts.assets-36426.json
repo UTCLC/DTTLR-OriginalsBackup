@@ -1,0 +1,92 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 18922
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 2,
+    "m_PathID": 1462
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* It looks like almost everyone\\n  woke up and left...",
+      "* Seems like this whole\\n  thing was a bust\\n  after all,^05 huh."
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_text",
+      "snd_txtsus"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0,
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "",
+      "su_confident"
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 0,
+  "lines2": {
+    "Array": [
+      "* Now that you put it like\\n  that...",
+      "* I'm actually more convinced.\\n* Screw you!"
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_text",
+      "snd_text"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0,
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": []
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": 0,
+  "triggerFlag": -1,
+  "forceSecondaryAtFlag": -1,
+  "talkSprites": {
+    "Array": []
+  },
+  "talkFramerate": 6,
+  "maxPos": {
+    "x": 5.86,
+    "y": 2.06,
+    "z": 0.0
+  },
+  "minPos": {
+    "x": -0.52,
+    "y": -2.89,
+    "z": 0.0
+  },
+  "waitLength": 25,
+  "walkLength": 10,
+  "walkSpeed": 4,
+  "sortingOrderOffset": 0,
+  "forceDisableWander": 0,
+  "defaultLook": {
+    "x": 0.0,
+    "y": 0.0
+  }
+}

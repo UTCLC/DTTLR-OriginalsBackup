@@ -1,0 +1,84 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 18204
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 2,
+    "m_PathID": 1472
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* ... You have shown me that\\n  there is hope in this\\n  world.",
+      "* Thank you."
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_text",
+      "snd_text"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0,
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "",
+      ""
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 1,
+  "lines2": {
+    "Array": [
+      "* Uhh,^05 what's with the\\n  pessimism?",
+      "* ... Have you seen...",
+      "* ... The large, goat lady?",
+      "* So it wasn't just\\n  me,^05 huh."
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_txtsus",
+      "snd_text",
+      "snd_text",
+      "snd_txtsus"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": [
+      "su_side",
+      "",
+      "",
+      "su_inquisitive"
+    ]
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": 0,
+  "triggerFlag": -1,
+  "forceSecondaryAtFlag": -1,
+  "talkSprites": {
+    "Array": []
+  },
+  "talkFramerate": 6
+}

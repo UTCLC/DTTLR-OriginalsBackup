@@ -1,0 +1,34 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 2,
+    "m_PathID": 154
+  },
+  "m_Name": "spr_ruins_water_bridge_center",
+  "m_AnimatedSprites": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 12874
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 13158
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 13356
+      }
+    ]
+  },
+  "m_MinSpeed": 1.0,
+  "m_MaxSpeed": 1.0,
+  "m_AnimationStartTime": 0.0,
+  "m_AnimationStartFrame": 0,
+  "m_TileColliderType": 0,
+  "m_TileAnimationFlags": 0
+}

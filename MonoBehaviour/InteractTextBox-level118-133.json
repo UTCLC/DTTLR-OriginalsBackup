@@ -1,0 +1,105 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 13
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1472
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* How kind of those two to\\n  bring you three here.",
+      "* I hope y'all are feeling\\n  better.",
+      "* Say,^05 who exactly WERE\\n  the two that brought\\n  us here?",
+      "* Oh,^05 they're Rudy's kids!",
+      "* They actually used to live\\n  here in Snowdin.",
+      "* But that was before he\\n  fell down one day.",
+      "* They moved to the city\\n  afterwards.",
+      "* It was very tragic,^05 but they\\n  seem to have found their\\n  footing again.",
+      "* (What does fallen down\\n  mean...?)",
+      "* W-well,^05 thank you for\\n  letting us stay,^05 I\\n  guess.",
+      "* My pleasure!"
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_text",
+      "snd_text",
+      "snd_txtnoe",
+      "snd_text",
+      "snd_text",
+      "snd_text",
+      "snd_text",
+      "snd_text",
+      "snd_txtnoe",
+      "snd_txtnoe",
+      "snd_text"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "",
+      "",
+      "no_curious",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "no_thinking",
+      "no_happy",
+      ""
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 1,
+  "lines2": {
+    "Array": [
+      "* I hope y'all enjoy your time\\n  in Snowdin!"
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_text"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": []
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": 0,
+  "triggerFlag": -1,
+  "forceSecondaryAtFlag": -1,
+  "talkSprites": {
+    "Array": [
+      {
+        "m_FileID": 2,
+        "m_PathID": 12651
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 9571
+      }
+    ]
+  },
+  "talkFramerate": 6
+}

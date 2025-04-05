@@ -1,0 +1,103 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 18674
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 2,
+    "m_PathID": 1462
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* There are only three people\\n  remaining.",
+      "* I don't wanna stay,^05 I'll get\\n  outta here...",
+      "* Maybe I'll worship the color\\n  green next."
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_text",
+      "snd_text",
+      "snd_text"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0,
+      0,
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "",
+      "",
+      ""
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 1,
+  "lines2": {
+    "Array": [
+      "* I could totally get a\\n  greenhouse made.",
+      "* Maybe have a moss farm or\\n  something.",
+      "* Moss...?"
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_text",
+      "snd_text",
+      "snd_txtsus"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0,
+      0,
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": [
+      "",
+      "",
+      "su_surprised"
+    ]
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": 0,
+  "triggerFlag": -1,
+  "forceSecondaryAtFlag": -1,
+  "talkSprites": {
+    "Array": []
+  },
+  "talkFramerate": 6,
+  "maxPos": {
+    "x": 12.86,
+    "y": 2.06,
+    "z": 0.0
+  },
+  "minPos": {
+    "x": 8.23,
+    "y": -2.89,
+    "z": 0.0
+  },
+  "waitLength": 35,
+  "walkLength": 10,
+  "walkSpeed": 4,
+  "sortingOrderOffset": 0,
+  "forceDisableWander": 0,
+  "defaultLook": {
+    "x": 0.0,
+    "y": 0.0
+  }
+}

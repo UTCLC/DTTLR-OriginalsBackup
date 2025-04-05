@@ -1,0 +1,64 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 31
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 657
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* pee games\\n\\n* pee games"
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_txtnoe"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "no_neutral"
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "left": "Pee Pee",
+  "leftOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "right": "Poo Poo",
+  "rightOffset": {
+    "x": -12.0,
+    "y": 0.0
+  },
+  "up": "Funny Monky",
+  "upOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "down": "FUCKINGGGGG",
+  "downOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "centerOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "talkSprites": {
+    "Array": []
+  },
+  "talkFramerate": 6
+}

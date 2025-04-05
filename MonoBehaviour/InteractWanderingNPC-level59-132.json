@@ -1,0 +1,107 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1462
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* It appears all of you are\\n  in good condition.",
+      "* You aren't in need of any\\n  treatment."
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_text",
+      "snd_text"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0,
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "",
+      ""
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 0,
+  "lines2": {
+    "Array": [
+      "* Hey man,^05 no judging!",
+      "* What if I judged YOUR\\n  religion?",
+      "* Dude,^05 if you're doing\\n  stuff like sacrifices,^05\\n  you're in a cult.",
+      "* You aren't doing doing\\n  sacrifices,^05 right?",
+      "* ..."
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_text",
+      "snd_text",
+      "snd_txtsus",
+      "snd_txtsus",
+      "snd_text"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": [
+      "",
+      "",
+      "su_annoyed",
+      "su_side_sweat",
+      ""
+    ]
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": 0,
+  "triggerFlag": -1,
+  "forceSecondaryAtFlag": -1,
+  "talkSprites": {
+    "Array": []
+  },
+  "talkFramerate": 6,
+  "maxPos": {
+    "x": 51.15,
+    "y": -38.23,
+    "z": 0.0
+  },
+  "minPos": {
+    "x": 47.68,
+    "y": -45.11,
+    "z": 0.0
+  },
+  "waitLength": 45,
+  "walkLength": 30,
+  "walkSpeed": 4,
+  "sortingOrderOffset": 1,
+  "forceDisableWander": 1,
+  "defaultLook": {
+    "x": 0.0,
+    "y": -1.0
+  }
+}

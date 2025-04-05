@@ -1,0 +1,83 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 16
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1472
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* (The writing on this sign has\\n  been scribbled out,^05 but you can\\n  barely make out what is says.)",
+      "* AWARE OF DOG^05\\n* pleas pet dog",
+      "* ..."
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_text",
+      "snd_text",
+      "snd_txtnoe"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "",
+      "",
+      "no_depressed_side"
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 0,
+  "lines2": {
+    "Array": [
+      "* Okay,^05 so what if instead\\n  of fighting whoever\\n  these weirdos are...",
+      "* We talk them out of\\n  fighting us.",
+      "* They seem like they'd\\n  be normal enough to\\n  actually TALK to.",
+      "* I can't really see that\\n  happening,^05 but I guess\\n  it's worth a try...?"
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_txtsus",
+      "snd_txtsus",
+      "snd_txtsus",
+      "snd_txtnoe"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": [
+      "su_smile_sweat",
+      "su_smile",
+      "su_smile_sweat",
+      "no_happy"
+    ]
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": 0,
+  "triggerFlag": -1,
+  "forceSecondaryAtFlag": -1,
+  "talkSprites": {
+    "Array": []
+  },
+  "talkFramerate": 6
+}

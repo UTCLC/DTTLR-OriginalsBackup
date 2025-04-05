@@ -1,0 +1,31 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 46
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1229
+  },
+  "m_Name": "",
+  "hide": 1,
+  "newScene": 35,
+  "newPos": {
+    "x": 17.52,
+    "y": -1.06
+  },
+  "vertical": 1,
+  "downOrLeft": 1,
+  "fadeType": 0,
+  "forceActivationFlag": 53,
+  "denyText": "* Kris,^10 c'mon.",
+  "denySound": "snd_txtsus",
+  "denyPortrait": "su_annoyed",
+  "denyNudge": {
+    "x": 0.0,
+    "y": 0.041666668,
+    "z": 0.0
+  },
+  "fadeMusic": 0
+}

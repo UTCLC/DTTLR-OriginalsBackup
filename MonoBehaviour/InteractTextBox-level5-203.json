@@ -1,0 +1,87 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 10
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1472
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* Press ^Z to interact\\n  with deez",
+      ""
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_txtsus",
+      ""
+    ]
+  },
+  "speed": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "su_inquisitive"
+    ]
+  },
+  "remarks": {
+    "Array": [
+      {
+        "line": 2,
+        "portrait": "no_neutral",
+        "pos": {
+          "x": 260.0,
+          "y": 30.0
+        },
+        "text": "Funny"
+      },
+      {
+        "line": 1,
+        "portrait": "su_inquisitive",
+        "pos": {
+          "x": 400.0,
+          "y": 68.0
+        },
+        "text": "What."
+      }
+    ]
+  },
+  "secondaryLines": 0,
+  "lines2": {
+    "Array": [
+      "* [NO_TEXT]"
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_text"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": []
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": 0,
+  "triggerFlag": -1,
+  "forceSecondaryAtFlag": -1,
+  "talkSprites": {
+    "Array": []
+  },
+  "talkFramerate": 6
+}

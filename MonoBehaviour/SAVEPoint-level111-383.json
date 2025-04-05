@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 78
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1324
+  },
+  "m_Name": "",
+  "doPhrase": 1,
+  "phrases": {
+    "Array": [
+      "* (The cozy feeling of this\\n  quaint town fills you with\\n  the power of the holidays.)"
+    ]
+  },
+  "relativeSpawn": "down",
+  "force": 0,
+  "allowOblitModification": 1
+}

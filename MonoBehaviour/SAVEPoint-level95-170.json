@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 29
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1324
+  },
+  "m_Name": "",
+  "doPhrase": 1,
+  "phrases": {
+    "Array": [
+      "* (This area feels so much like\\n  an empty canvas,^05 ready for art\\n  to sprout from the ground.)",
+      "* (You're filled with the power\\n  of sculpture.)"
+    ]
+  },
+  "relativeSpawn": "up",
+  "force": 0,
+  "allowOblitModification": 1
+}

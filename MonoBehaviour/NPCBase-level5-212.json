@@ -1,0 +1,156 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 19
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 203
+  },
+  "m_Name": "",
+  "lines": {
+    "Array": [
+      "* You wanna GO???\\n\\n         Hell yea    NO!!!!!"
+    ]
+  },
+  "sound": {
+    "Array": [
+      "snd_txtkrs"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      ""
+    ]
+  },
+  "eventType": 5,
+  "eventData": -1,
+  "optionA": "Hell yea",
+  "optionAItem": -2,
+  "optionALines": {
+    "Array": []
+  },
+  "optionASound": {
+    "Array": [
+      "snd_text"
+    ]
+  },
+  "optionASpeed": {
+    "Array": [
+      0
+    ]
+  },
+  "optionAPortraits": {
+    "Array": [
+      ""
+    ]
+  },
+  "optionB": "NO!!!!!",
+  "optionBItem": -1,
+  "optionBLines": {
+    "Array": [
+      "* What a shame."
+    ]
+  },
+  "optionBSound": {
+    "Array": [
+      "snd_txtkrs"
+    ]
+  },
+  "optionBSpeed": {
+    "Array": [
+      0
+    ]
+  },
+  "optionBPortraits": {
+    "Array": [
+      ""
+    ]
+  },
+  "ctmLines": {
+    "Array": [
+      "* (You're carrying too much.)"
+    ]
+  },
+  "ctmSound": {
+    "Array": []
+  },
+  "ctmSpeed": {
+    "Array": []
+  },
+  "ctmPortraits": {
+    "Array": [
+      ""
+    ]
+  },
+  "defeatStealLines": {
+    "Array": [
+      "* I can't feel my feelings!"
+    ]
+  },
+  "defeatStealSound": {
+    "Array": [
+      "snd_txtkrs"
+    ]
+  },
+  "defeatStealSpeed": {
+    "Array": [
+      0
+    ]
+  },
+  "defeatStealPortraits": {
+    "Array": [
+      ""
+    ]
+  },
+  "defeatSaveLines": {
+    "Array": [
+      "* Whew!"
+    ]
+  },
+  "defeatSaveSound": {
+    "Array": [
+      "snd_txtkrs"
+    ]
+  },
+  "defeatSaveSpeed": {
+    "Array": [
+      0
+    ]
+  },
+  "defeatSavePortraits": {
+    "Array": [
+      ""
+    ]
+  },
+  "defeatKilledLines": {
+    "Array": []
+  },
+  "defeatKilledSound": {
+    "Array": []
+  },
+  "defeatKilledSpeed": {
+    "Array": []
+  },
+  "defeatKilledPortraits": {
+    "Array": []
+  },
+  "altLines": {
+    "Array": []
+  },
+  "altSounds": {
+    "Array": []
+  },
+  "altSpeed": {
+    "Array": []
+  },
+  "altPortraits": {
+    "Array": []
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 42
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1229
+  },
+  "m_Name": "",
+  "hide": 1,
+  "newScene": 41,
+  "newPos": {
+    "x": -2.55,
+    "y": -0.47
+  },
+  "vertical": 0,
+  "downOrLeft": 0,
+  "fadeType": 0,
+  "forceActivationFlag": 53,
+  "denyText": "* Kris,^10 we should at\\n  least check out the\\n  surprise,^05 y'know?",
+  "denySound": "snd_txtsus",
+  "denyPortrait": "su_annoyed",
+  "denyNudge": {
+    "x": -0.04166667,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "fadeMusic": 1
+}

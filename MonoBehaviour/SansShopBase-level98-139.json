@@ -1,0 +1,104 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 29
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 514
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "*\\tso how's the traps\\n\\tbeen going?",
+      "* It's been real\\n  annoying.",
+      "* He's just been making\\n  Kris do all of them.",
+      "*\\tsounds about right.",
+      "*\\tbut what about all\\n\\tthe effort papyrus has\\n\\tbeen putting in?",
+      "* HE'S BEEN TRYING\\n  TO KILL US.",
+      "*\\tnah,^05 no way.",
+      "*\\the'd never hurt a fly.",
+      "*\\tor at least he\\n\\twouldn't unprovoked.",
+      "* Then why does he\\n  force us to do\\n  dangerous puzzles?",
+      "*\\tmethinks it's not\\n\\tjust him.",
+      "*\\tprolly would be a good idea\\n\\tto put into perspective\\n\\twhat's going on.",
+      "* Hmm..."
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_txtsans",
+      "snd_txtsus",
+      "snd_txtnoe",
+      "snd_txtsans",
+      "snd_txtsans",
+      "snd_txtsus",
+      "snd_txtsans",
+      "snd_txtsans",
+      "snd_txtsans",
+      "snd_txtnoe",
+      "snd_txtsans",
+      "snd_txtsans",
+      "snd_txtsus"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "sans_wink",
+      "su_annoyed",
+      "no_curious",
+      "sans_closed",
+      "sans_side",
+      "su_angry",
+      "sans_neutral",
+      "sans_side",
+      "sans_rolleye",
+      "no_thinking",
+      "sans_neutral",
+      "sans_closed",
+      "su_inquisitive"
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "left": "",
+  "leftOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "right": "",
+  "rightOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "up": "",
+  "upOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "down": "",
+  "downOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "centerOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "talkSprites": {
+    "Array": []
+  },
+  "talkFramerate": 6,
+  "shopObject": {
+    "m_FileID": 2,
+    "m_PathID": 21485
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 35
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1462
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* I heard many footprints exist\\n  deep down in the east cave.",
+      "* People call that place Lilliput\\n  Steps,^05 and it makes them feel\\n  uneasy.",
+      "* I think one person said they\\n  saw a strange grey door over\\n  there.",
+      "* How did it take that long\\n  before they sealed up the\\n  cave entrance?"
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_text",
+      "snd_text",
+      "snd_text",
+      "snd_text"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 0,
+  "lines2": {
+    "Array": [
+      "* Hey man,^05 no judging!",
+      "* What if I judged YOUR\\n  religion?",
+      "* Dude,^05 if you're doing\\n  stuff like sacrifices,^05\\n  you're in a cult.",
+      "* You aren't doing doing\\n  sacrifices,^05 right?",
+      "* ..."
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_text",
+      "snd_text",
+      "snd_txtsus",
+      "snd_txtsus",
+      "snd_text"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": [
+      "",
+      "",
+      "su_annoyed",
+      "su_side_sweat",
+      ""
+    ]
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": 0,
+  "triggerFlag": -1,
+  "forceSecondaryAtFlag": -1,
+  "talkSprites": {
+    "Array": []
+  },
+  "talkFramerate": 6,
+  "maxPos": {
+    "x": 26.67,
+    "y": -10.66,
+    "z": 0.0
+  },
+  "minPos": {
+    "x": 21.99,
+    "y": -13.78,
+    "z": 0.0
+  },
+  "waitLength": 40,
+  "walkLength": 20,
+  "walkSpeed": 4,
+  "sortingOrderOffset": 0,
+  "forceDisableWander": 0,
+  "defaultLook": {
+    "x": 0.0,
+    "y": 0.0
+  }
+}

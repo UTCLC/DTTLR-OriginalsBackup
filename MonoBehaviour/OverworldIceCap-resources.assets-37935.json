@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 20271
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 2,
+    "m_PathID": 205
+  },
+  "m_Name": "",
+  "defeatFlagID": 187,
+  "counterFlagID": 188,
+  "killExhaustCount": 3,
+  "battleId": 58,
+  "npcRespawn": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "hardModeBattleID": -1,
+  "hardModeNpcRespawn": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "instantSpareRespawn": 0
+}

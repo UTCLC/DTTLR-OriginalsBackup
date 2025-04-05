@@ -1,0 +1,178 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 24
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 203
+  },
+  "m_Name": "",
+  "lines": {
+    "Array": [
+      "* you wanna have a bad time?",
+      "* What the hell is your issue?",
+      "* Hey!^10\\n* No swearing!",
+      "* You should listen to your\\n  mother.",
+      "* YES!! LISTEN TO THE\\n  KING!!!",
+      "* Wait...^10\\n* Is that older me?",
+      "* ...^20\\n* Where am I?",
+      "* I don't know!",
+      "* ...",
+      "* <color=#ff0000ff>It's time.</color>",
+      "* NO IT ISN'T, LUCIFER.^05\\n* IT IS NOT THE PERFECT\\n  TIME TO PLAY.",
+      "* Yeah, you're right.^10\\n* My bad.",
+      "* And here we end off this\\n  weird NPC dialogue with\\n  <color=#ffff00ff>BATTLE TEXT</color>.",
+      "* A^02h^02h^02.^02.^02.^10\\n* Battle text...^05\\n* A very crinkly sound."
+    ]
+  },
+  "sound": {
+    "Array": [
+      "snd_txtsans",
+      "snd_txtasr",
+      "snd_txttor",
+      "snd_txtasg",
+      "snd_txtpap",
+      "snd_txtasr_yung",
+      "snd_txtsus",
+      "snd_txtlan",
+      "snd_txtlcf",
+      "snd_txtlcf",
+      "snd_txtjok",
+      "snd_txtlcf",
+      "snd_txtbtl",
+      "snd_txtbtl"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eventType": 0,
+  "eventData": 0,
+  "optionA": "",
+  "optionAItem": 0,
+  "optionALines": {
+    "Array": []
+  },
+  "optionASound": {
+    "Array": []
+  },
+  "optionASpeed": {
+    "Array": []
+  },
+  "optionAPortraits": {
+    "Array": []
+  },
+  "optionB": "",
+  "optionBItem": 0,
+  "optionBLines": {
+    "Array": []
+  },
+  "optionBSound": {
+    "Array": []
+  },
+  "optionBSpeed": {
+    "Array": []
+  },
+  "optionBPortraits": {
+    "Array": []
+  },
+  "ctmLines": {
+    "Array": [
+      "* (You're carrying too much.)"
+    ]
+  },
+  "ctmSound": {
+    "Array": []
+  },
+  "ctmSpeed": {
+    "Array": []
+  },
+  "ctmPortraits": {
+    "Array": [
+      ""
+    ]
+  },
+  "defeatStealLines": {
+    "Array": []
+  },
+  "defeatStealSound": {
+    "Array": []
+  },
+  "defeatStealSpeed": {
+    "Array": []
+  },
+  "defeatStealPortraits": {
+    "Array": []
+  },
+  "defeatSaveLines": {
+    "Array": []
+  },
+  "defeatSaveSound": {
+    "Array": []
+  },
+  "defeatSaveSpeed": {
+    "Array": []
+  },
+  "defeatSavePortraits": {
+    "Array": []
+  },
+  "defeatKilledLines": {
+    "Array": []
+  },
+  "defeatKilledSound": {
+    "Array": []
+  },
+  "defeatKilledSpeed": {
+    "Array": []
+  },
+  "defeatKilledPortraits": {
+    "Array": []
+  },
+  "altLines": {
+    "Array": []
+  },
+  "altSounds": {
+    "Array": []
+  },
+  "altSpeed": {
+    "Array": []
+  },
+  "altPortraits": {
+    "Array": []
+  }
+}

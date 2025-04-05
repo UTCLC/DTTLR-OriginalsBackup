@@ -1,0 +1,16 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 43
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 910
+  },
+  "m_Name": "",
+  "hide": 1,
+  "flag": 52,
+  "cutsceneId": 15,
+  "destroyOnTouch": 1
+}

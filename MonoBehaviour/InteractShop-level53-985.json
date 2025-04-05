@@ -1,0 +1,166 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 32
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1265
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "itemID": 18,
+  "price": 15,
+  "buyText": "Yes",
+  "rejectText": "No",
+  "lines": {
+    "Array": [
+      "* Humm dee dum dum dum...",
+      "* I'm hunting for mushrooms,\\n^10  but I bought too many from\\n  a kid with a red hat.",
+      "* Would you be willing to\\n  buy one of them for 15G?"
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_text",
+      "snd_text",
+      "snd_text"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0,
+      0,
+      0
+    ]
+  },
+  "portraits": {
+    "Array": []
+  },
+  "remarks": {
+    "Array": []
+  },
+  "purchaseLines": {
+    "Array": [
+      "* Thank you.\\n  It's a weight lifted off\\n  my basket.",
+      "* (You got the Quiet Shroom.)\\n* (It was added to your ITEMs.)"
+    ]
+  },
+  "purchaseSounds": {
+    "Array": [
+      "snd_text",
+      "snd_text"
+    ]
+  },
+  "purchaseSpeed": {
+    "Array": [
+      0,
+      0
+    ]
+  },
+  "purchasePortraits": {
+    "Array": []
+  },
+  "purchaseRemarks": {
+    "Array": []
+  },
+  "rejectLines": {
+    "Array": [
+      "* If I don't get anyone to\\n  buy these,^10 they'll turn\\n  evil again!"
+    ]
+  },
+  "rejectSounds": {
+    "Array": [
+      "snd_text"
+    ]
+  },
+  "rejectSpeed": {
+    "Array": [
+      0
+    ]
+  },
+  "rejectPortraits": {
+    "Array": [
+      ""
+    ]
+  },
+  "rejectRemarks": {
+    "Array": []
+  },
+  "noSpaceLines": {
+    "Array": [
+      "* You don't have enough space\\n  to carry it.",
+      "* That'll surely make the shroom\\n  angry.^05\\n* You can keep your money.",
+      "* (Wait,^05 angry?)"
+    ]
+  },
+  "noSpaceSounds": {
+    "Array": [
+      "snd_text",
+      "snd_text",
+      "snd_txtnoe"
+    ]
+  },
+  "noSpaceSpeed": {
+    "Array": [
+      0,
+      0,
+      0
+    ]
+  },
+  "noSpacePortraits": {
+    "Array": [
+      "",
+      "",
+      "no_playful"
+    ]
+  },
+  "noSpaceRemarks": {
+    "Array": []
+  },
+  "noMoneyLines": {
+    "Array": [
+      "* Oh... ^10you don't have enough\\n  money.",
+      "* If I don't get anyone to\\n  buy these,^10 they'll turn\\n  evil again!",
+      "* (You could give it to\\n  us for free...)"
+    ]
+  },
+  "noMoneySounds": {
+    "Array": [
+      "snd_text",
+      "snd_text",
+      "snd_txtsus"
+    ]
+  },
+  "noMoneySpeed": {
+    "Array": [
+      0,
+      0,
+      0
+    ]
+  },
+  "noMoneyPortraits": {
+    "Array": [
+      "",
+      "",
+      "su_smirk_sweat"
+    ]
+  },
+  "noMoneyRemarks": {
+    "Array": []
+  },
+  "talkSprites": {
+    "Array": [
+      {
+        "m_FileID": 2,
+        "m_PathID": 7537
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 12657
+      }
+    ]
+  },
+  "talkFramerate": 6
+}

@@ -1,0 +1,14 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 20235
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 2,
+    "m_PathID": 149
+  },
+  "m_Name": "",
+  "destroyOnAudioSourceComplete": 0,
+  "waitForAnimToConfirmFinished": 0
+}

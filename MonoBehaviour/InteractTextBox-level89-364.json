@@ -1,0 +1,73 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 69
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1472
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* The History of the Kingdom\\n  by Gerson Boom",
+      "* (You turn to a random page.)",
+      "* \"After his declaration of war\\n  on the humans, the queen\\n  tried to overthrow the king.\"",
+      "* \"This was the only time the\\n  Royal Guard was given a direct\\n  order of violence by the king.\"",
+      "* \"The queen was banished to the\\n  Ruins,^05 to the anguish of his\\n  majesty.\"",
+      "* \"With such a violent end to\\n  their children,^05 and the queen's\\n  coup attempt...\"",
+      "* \"The kingdom fell into a\\n  deep depression.\"",
+      "* \"One that persists to this\\n  very day.\"",
+      "* \"King Asgore continues to try\\n  his best to bring hope back\\n  to the people.\"",
+      "* \"But with how things have been\\n  for the good part of a century\\n  or so,^05 who's to say it will?\""
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_text"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits": {
+    "Array": []
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 0,
+  "lines2": {
+    "Array": [
+      "* [NO_TEXT]"
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_text"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": []
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": 0,
+  "triggerFlag": -1,
+  "forceSecondaryAtFlag": -1,
+  "talkSprites": {
+    "Array": []
+  },
+  "talkFramerate": 6
+}

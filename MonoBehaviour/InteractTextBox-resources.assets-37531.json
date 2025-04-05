@@ -1,0 +1,96 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 20163
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 2,
+    "m_PathID": 1472
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* So I'm kinda confused...",
+      "* Why did you say \"Snowy that\\n  I know?\"",
+      "* 'Cause I don't even know\\n  who you are!",
+      "* It's complicated...",
+      "* The less you know,^05\\n  the better.",
+      "* So it's an \"icy\" situation,^05\\n  huh?",
+      "* WHAT!?!?^05\\n* It's a JOKE!!\\n* LAUGH at it!!",
+      "* (Just like Snowy...)"
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_text",
+      "snd_text",
+      "snd_text",
+      "snd_txtsus",
+      "snd_txtsus",
+      "snd_text",
+      "snd_text",
+      "snd_txtsus"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "",
+      "",
+      "",
+      "su_neutral",
+      "su_smile_side",
+      "",
+      "",
+      "su_annoyed"
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 0,
+  "lines2": {
+    "Array": [
+      "* [NO_TEXT]"
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_text"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": []
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": 0,
+  "triggerFlag": -1,
+  "forceSecondaryAtFlag": -1,
+  "talkSprites": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 8591
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 10300
+      }
+    ]
+  },
+  "talkFramerate": 6
+}

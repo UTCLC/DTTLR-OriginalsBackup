@@ -1,0 +1,98 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 12
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1472
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* Oh me,^05 oh my!^10\\n* Did I miss him?",
+      "* Yup.^05\\n* Just bolted outta\\n  here.",
+      "* Oh darn!^05\\n* I'm such a big fan of\\n  Jerry.",
+      "* He's so cool!^05\\n* I wish I could meet him\\n  someday..."
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_text",
+      "snd_txtsus",
+      "snd_text",
+      "snd_text"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "",
+      "su_smirk_sweat",
+      "",
+      ""
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 0,
+  "lines2": {
+    "Array": [
+      "* Oh me,^05 oh my!^10\\n* Did I miss him?",
+      "* Uhhhhhhhhhh^20\\n* Who?",
+      "* Oh,^05 I've just been looking\\n  for Jerry...",
+      "* He's so cool!^05\\n* I wish I could meet him\\n  someday...",
+      "* (A little too late,^05\\n  huh...)"
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_text",
+      "snd_txtsus",
+      "snd_text",
+      "snd_text",
+      "snd_txtsus"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": [
+      "",
+      "su_inquisitive",
+      "",
+      "",
+      "su_dejected"
+    ]
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": 0,
+  "triggerFlag": -1,
+  "forceSecondaryAtFlag": -1,
+  "talkSprites": {
+    "Array": [
+      {
+        "m_FileID": 2,
+        "m_PathID": 9135
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 12831
+      }
+    ]
+  },
+  "talkFramerate": 6
+}

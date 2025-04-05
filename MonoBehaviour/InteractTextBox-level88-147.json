@@ -1,0 +1,89 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1472
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* I wish me and my little\\n  Cinnamon here could take\\n  walks more often.",
+      "* We used to do it occasionally,^05\\n  but now it's too dangerous\\n  to go out anymore.",
+      "* At least we're safe."
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_text"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits": {
+    "Array": []
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 1,
+  "lines2": {
+    "Array": [
+      "* Wait,^05 so you're...\\n  a bunny that keeps\\n  a bunny as a pet?",
+      "* Pet???^05\\n* He's my younger brother!",
+      "* Then why's he so...^05\\n  small?",
+      "* What's wrong with being small?",
+      "* Nevermind."
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_txtsus",
+      "snd_text",
+      "snd_txtsus",
+      "snd_text",
+      "snd_txtsus"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": [
+      "su_side",
+      "",
+      "su_annoyed",
+      "",
+      "su_smirk_sweat"
+    ]
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": 0,
+  "triggerFlag": -1,
+  "forceSecondaryAtFlag": -1,
+  "talkSprites": {
+    "Array": [
+      {
+        "m_FileID": 2,
+        "m_PathID": 12648
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 12755
+      }
+    ]
+  },
+  "talkFramerate": 6
+}

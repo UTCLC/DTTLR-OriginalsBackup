@@ -1,0 +1,95 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 32
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1472
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* A-aren't you kids a lil' too\\n  young t'be up this early?",
+      "* Isn't it a little\\n  too early to be\\n  getting drunk?",
+      "* H-^05hey!!!^05\\n* W-we all c-cope with this life\\n  differently!",
+      "* You get up stupidly early and\\n  I eat fries and dream about\\n  h-h-hot guys.",
+      "* ... Eating fries gets\\n  you drunk???"
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_text",
+      "snd_txtsus",
+      "snd_text",
+      "snd_text",
+      "snd_txtsus"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "",
+      "su_annoyed",
+      "",
+      "",
+      "su_inquisitive"
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 1,
+  "lines2": {
+    "Array": [
+      "* O-okay,^05 there might be a\\n  l-l-l-LITTLE bit of\\n  d-drinking...",
+      "* B-b-but I just love f-f-fries!",
+      "* I think I'll actually\\n  TRY to stay in school."
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_text",
+      "snd_text",
+      "snd_txtsus"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": [
+      "",
+      "",
+      "su_side_sweat"
+    ]
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": 0,
+  "triggerFlag": -1,
+  "forceSecondaryAtFlag": -1,
+  "talkSprites": {
+    "Array": [
+      {
+        "m_FileID": 2,
+        "m_PathID": 12647
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 10761
+      }
+    ]
+  },
+  "talkFramerate": 6
+}

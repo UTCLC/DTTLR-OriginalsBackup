@@ -1,0 +1,31 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 43
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1229
+  },
+  "m_Name": "",
+  "hide": 1,
+  "newScene": 49,
+  "newPos": {
+    "x": -5.01,
+    "y": -2.2275
+  },
+  "vertical": 0,
+  "downOrLeft": 0,
+  "fadeType": 0,
+  "forceActivationFlag": -1,
+  "denyText": "* (You felt that you shouldn't\n  advance.)",
+  "denySound": "snd_text",
+  "denyPortrait": "",
+  "denyNudge": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "fadeMusic": 0
+}

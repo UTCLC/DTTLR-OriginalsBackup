@@ -1,0 +1,92 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 50
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1472
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* It's always so nice visiting\\n  Snowdin Town!",
+      "* The people here are so\\n  friendly!",
+      "* I just wish it wasn't so\\n  far from home..."
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_text"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits": {
+    "Array": []
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 1,
+  "lines2": {
+    "Array": [
+      "* I hear some people are\\n  worried about folks from\\n  the city coming here.",
+      "* But Snowdin is a lot bigger\\n  than people give it\\n  credit for!",
+      "* Just take a look at the\\n  view by the bridge!",
+      "* Yeah...^10\\n* Yeah,^05 that...",
+      "* I wonder what sights\\n  we could see if we\\n  could go explore.",
+      "* Too bad we...^05 don't\\n  really have time."
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_text",
+      "snd_text",
+      "snd_text",
+      "snd_txtsus",
+      "snd_txtnoe",
+      "snd_txtnoe"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": [
+      "",
+      "",
+      "",
+      "su_smirk_sweat",
+      "no_happy",
+      "no_weird"
+    ]
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": 0,
+  "triggerFlag": -1,
+  "forceSecondaryAtFlag": -1,
+  "talkSprites": {
+    "Array": [
+      {
+        "m_FileID": 2,
+        "m_PathID": 8453
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 8846
+      }
+    ]
+  },
+  "talkFramerate": 6
+}

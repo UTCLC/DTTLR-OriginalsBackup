@@ -1,0 +1,78 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1472
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* \"Holiday Residence\\n* FOR SALE: CONTACT --- ----\\n  FOR INFORMATION\"",
+      "* What???!",
+      "* Oh,^05 hey,^05 it's your\\n  place.",
+      "* It's pretty run-down,^05\\n  huh.",
+      "* Wait,^05 is that...?"
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_text",
+      "snd_txtnoe",
+      "snd_txtsus",
+      "snd_txtsus",
+      "snd_txtsus"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "",
+      "no_shocked",
+      "su_smile_side",
+      "su_smile_sweat",
+      "su_side"
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 0,
+  "lines2": {
+    "Array": [
+      "* [NO_TEXT]"
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_text"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": []
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": 0,
+  "triggerFlag": -1,
+  "forceSecondaryAtFlag": -1,
+  "talkSprites": {
+    "Array": []
+  },
+  "talkFramerate": 6
+}

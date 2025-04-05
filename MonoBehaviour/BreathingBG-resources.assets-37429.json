@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 20023
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 2,
+    "m_PathID": 1238
+  },
+  "m_Name": "",
+  "lowHeight": 270,
+  "highHeight": 640,
+  "segments": 24,
+  "breatheLength": 240,
+  "soulColor": 0
+}

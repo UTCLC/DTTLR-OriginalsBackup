@@ -1,0 +1,92 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 514
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "*\\tthis is really nice.",
+      "*\\ti haven't been outside\\n\\tin so long.",
+      "*\\tnever take what you\\n\\thave for granted.",
+      "*\\tbecause someday,^05 it\\n\\tmay just vanish.",
+      "* What the hell does\\n  that mean...?",
+      "*\\ti dunno.^10\\n*\\tmaybe you'll find out\\n\\tsomeday.",
+      "* ?????"
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_txtsans",
+      "snd_txtsans",
+      "snd_txtsans",
+      "snd_txtsans",
+      "snd_txtsus",
+      "snd_txtsans",
+      "snd_txtsus"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "sans_closed",
+      "sans_neutral",
+      "sans_wink",
+      "sans_closed",
+      "su_annoyed",
+      "sans_wink",
+      "su_smirk_sweat"
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "left": "",
+  "leftOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "right": "",
+  "rightOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "up": "",
+  "upOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "down": "",
+  "downOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "centerOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "talkSprites": {
+    "Array": []
+  },
+  "talkFramerate": 6,
+  "shopObject": {
+    "m_FileID": 2,
+    "m_PathID": 17781
+  }
+}

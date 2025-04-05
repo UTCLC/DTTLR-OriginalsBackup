@@ -1,0 +1,119 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 15
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1472
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* Yo!^05\\n* You guys tourists or somethin'?",
+      "* Uhh...^10 I guess?",
+      "* I'm surprised Undyne let 'ya\\n  through.",
+      "* She didn't let me go anywhere\\n  near Waterfall earlier!",
+      "* My little sib' loves Undyne,^05\\n  but they aren't awake yet,^05\\n  haha.",
+      "* (Undyne...?)",
+      "* ...^05 Huh?^05\\n* The boat?",
+      "* Oh yeah,^05 my bad.",
+      "* I guess you're fine to\\n  stick around.",
+      "* Just don't follow me!"
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_text",
+      "snd_txtsus",
+      "snd_text",
+      "snd_text",
+      "snd_text",
+      "snd_txtnoe",
+      "snd_text",
+      "snd_text",
+      "snd_text",
+      "snd_text"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "",
+      "su_inquisitive",
+      "",
+      "",
+      "",
+      "no_thinking",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 1,
+  "lines2": {
+    "Array": [
+      "* What?^05\\n* You got a secret\\n  hide-out or something?",
+      "* W-^05What???^05 No!",
+      "* What do YOU know about me,^05\\n  HUH?",
+      "* You're acting real\\n  defensive for someone\\n  with nothing to hide.",
+      "* Susie!!!^05\\n* Leave her alone!",
+      "* Y-^05yeah,^05 Susie!^05\\n* My business ain't your\\n  business!"
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_txtsus",
+      "snd_text",
+      "snd_text",
+      "snd_txtsus",
+      "snd_txtnoe",
+      "snd_text"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": [
+      "su_annoyed",
+      "",
+      "",
+      "su_smile",
+      "no_playful",
+      ""
+    ]
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": 0,
+  "triggerFlag": -1,
+  "forceSecondaryAtFlag": -1,
+  "talkSprites": {
+    "Array": [
+      {
+        "m_FileID": 2,
+        "m_PathID": 10933
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 12643
+      }
+    ]
+  },
+  "talkFramerate": 6
+}

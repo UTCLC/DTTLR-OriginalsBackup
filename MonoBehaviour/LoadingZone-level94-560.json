@@ -1,0 +1,31 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 99
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1229
+  },
+  "m_Name": "",
+  "hide": 1,
+  "newScene": 93,
+  "newPos": {
+    "x": 26.71,
+    "y": 0.45
+  },
+  "vertical": 0,
+  "downOrLeft": 1,
+  "fadeType": 0,
+  "forceActivationFlag": -1,
+  "denyText": "DON'T LEAVE!^05\\nLOOK AT THE COOL \\nCOLORS INSTEAD!",
+  "denySound": "snd_txtpap",
+  "denyPortrait": "ufpap_side",
+  "denyNudge": {
+    "x": 0.041666668,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "fadeMusic": 0
+}

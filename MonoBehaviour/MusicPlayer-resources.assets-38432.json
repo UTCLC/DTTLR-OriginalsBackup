@@ -1,0 +1,15 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 21001
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 2,
+    "m_PathID": 773
+  },
+  "m_Name": "",
+  "musicTrack": "mus_stage",
+  "autoplay": 1,
+  "autoPlayLoop": 1
+}

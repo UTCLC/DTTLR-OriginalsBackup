@@ -1,0 +1,106 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 39
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 908
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* Hello there,^05 young travellers!",
+      "* I am not your enemy,^05 but an\\n  average mole.",
+      "* I would like to add a bit\\n  of flavor to your experience.",
+      "* Or would a bit of advice be\\n  more useful to you...?",
+      "* I'm willing to help either way!"
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_text"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits": {
+    "Array": []
+  },
+  "remarks": {
+    "Array": []
+  },
+  "left": "Yes",
+  "leftOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "right": "No",
+  "rightOffset": {
+    "x": 20.0,
+    "y": 0.0
+  },
+  "up": "Advice",
+  "upOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "down": "",
+  "downOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "centerOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "talkSprites": {
+    "Array": [
+      {
+        "m_FileID": 2,
+        "m_PathID": 8652
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 10583
+      }
+    ]
+  },
+  "talkFramerate": 6,
+  "adviceLines": {
+    "Array": [
+      "* Say,^05 if you're feeling a bit\\n  tired,^05 why not take a break?",
+      "* The <color=#FFFF00FF>bright light</color> will allow you\\n  to SAVE your progress.",
+      "* You can return back here at any\\n  time!",
+      "* Bright light?",
+      "* Is there something I'm\\n  missing here?"
+    ]
+  },
+  "adviceSounds": {
+    "Array": [
+      "snd_text",
+      "snd_text",
+      "snd_text",
+      "snd_txtsus"
+    ]
+  },
+  "adviceSpeed": {
+    "Array": [
+      0
+    ]
+  },
+  "advicePortraits": {
+    "Array": [
+      "",
+      "",
+      "",
+      "su_inquisitive",
+      "su_smirk_sweat"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 20202
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 2,
+    "m_PathID": 502
+  },
+  "m_Name": "",
+  "dimensions": {
+    "x": 8,
+    "y": 6
+  },
+  "cutscene": -1,
+  "presetFlag": -1,
+  "completionFlag": -1
+}

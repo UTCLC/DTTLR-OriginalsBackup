@@ -1,0 +1,138 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 20
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1313
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* It's an old,^10 faded ribbon.\\n* Pick it up?"
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_text"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits": {
+    "Array": []
+  },
+  "remarks": {
+    "Array": []
+  },
+  "left": "Yes",
+  "leftOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "right": "No",
+  "rightOffset": {
+    "x": 38.0,
+    "y": 0.0
+  },
+  "up": "",
+  "upOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "down": "",
+  "downOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "centerOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "talkSprites": {
+    "Array": []
+  },
+  "talkFramerate": 6,
+  "flag": 39,
+  "itemID": 14,
+  "purchaseLines": {
+    "Array": [
+      "* You got the Faded Ribbon.\\n* It was added to your\\n  EQUIPMENT.",
+      "* Hey,^05 I think that's\\n  like...^10 armor?",
+      "* Ralsei would probably\\n  say like...^10 you can\\n  wear it with ^C.",
+      "* Hell if I'm wearing\\n  THAT,^05 though."
+    ]
+  },
+  "purchaseSounds": {
+    "Array": [
+      "snd_text",
+      "snd_txtsus",
+      "snd_txtsus",
+      "snd_txtsus"
+    ]
+  },
+  "purchaseSpeed": {
+    "Array": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "purchasePortraits": {
+    "Array": [
+      "",
+      "su_smirk_sweat",
+      "su_smile_sweat",
+      "su_annoyed"
+    ]
+  },
+  "rejectLines": {
+    "Array": []
+  },
+  "rejectSounds": {
+    "Array": [
+      "snd_text"
+    ]
+  },
+  "rejectSpeed": {
+    "Array": [
+      0
+    ]
+  },
+  "rejectPortraits": {
+    "Array": []
+  },
+  "noSpaceLines": {
+    "Array": [
+      "* You don't have enough space\\n  in your EQUIPMENT.",
+      "* Wait,^05 didn't you tell me\\n  that you're like...\\n  organizing your items?",
+      "* How the hell did you\\n  run out of equipment\\n  space!?"
+    ]
+  },
+  "noSpaceSounds": {
+    "Array": [
+      "snd_text",
+      "snd_txtsus",
+      "snd_txtsus"
+    ]
+  },
+  "noSpaceSpeed": {
+    "Array": [
+      0
+    ]
+  },
+  "noSpacePortraits": {
+    "Array": [
+      "",
+      "su_inquisitive",
+      "su_angry"
+    ]
+  }
+}

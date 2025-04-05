@@ -1,0 +1,55 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 20
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 574
+  },
+  "m_Name": "",
+  "m_Material": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Color": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 0.0
+  },
+  "m_RaycastTarget": 1,
+  "m_RaycastPadding": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "w": 0.0
+  },
+  "m_Maskable": 1,
+  "m_OnCullStateChanged": {
+    "m_PersistentCalls": {
+      "m_Calls": {
+        "Array": []
+      }
+    }
+  },
+  "m_FontData": {
+    "m_Font": {
+      "m_FileID": 2,
+      "m_PathID": 14
+    },
+    "m_FontSize": 26,
+    "m_FontStyle": 0,
+    "m_BestFit": 0,
+    "m_MinSize": 2,
+    "m_MaxSize": 40,
+    "m_Alignment": 4,
+    "m_AlignByGeometry": 0,
+    "m_RichText": 1,
+    "m_HorizontalOverflow": 0,
+    "m_VerticalOverflow": 0,
+    "m_LineSpacing": 1.15
+  },
+  "m_Text": "= CAUTION =\nThis version of the game is a public test build and should not be used in supplement to the current release version.  Please report any issues with the game to us via email:\n\ndeltatraveler@vyletbunni.com\n\nThis game is unaffiliated\nwith Toby Fox."
+}

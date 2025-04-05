@@ -1,0 +1,104 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 16
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1472
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* Ribbit,^10 ribbit.\\n^10* (Excuse me,^10 human.)",
+      "* (I have some advice\\n  for you about battling\\n  monsters.)",
+      "* (If you <color=#FFFF00FF>ACT</color> a certain way\\n  or <color=#FFFF00FF>FIGHT</color> until you\\n  almost defeat them...)",
+      "* (They might not want to\\n  battle you anymore.)",
+      "* (If a monster does not\\n  want to fight you,^10 please...)",
+      "* (Use some <color=#FFFF00FF>MERCY,</color>^10 human.)^10\\n* Ribbit.",
+      "* Why were they only\\n  talking to YOU about\\n  this,^05 Kris?"
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_text",
+      "snd_text",
+      "snd_text",
+      "snd_text",
+      "snd_text",
+      "snd_text",
+      "snd_txtsus"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "su_annoyed"
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 1,
+  "lines2": {
+    "Array": [
+      "* Ribbit,^10 ribbit.\\n^10* (Careful,^10 purple lady.)",
+      "* (The human might want to\\n  fight <color=#FFFF00FF>you</color>,^05 next.)",
+      "* The next thing that's\\n  boutta get fought is\\n  your face.",
+      "* Shiver,^10 shiver.\\n^10* (Oh,^10 sorry,^05 I didn't mean\\n  any harm!)"
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_text",
+      "snd_text",
+      "snd_txtsus",
+      "snd_text"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": [
+      "",
+      "",
+      "su_angry",
+      ""
+    ]
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": -1,
+  "triggerFlag": -1,
+  "forceSecondaryAtFlag": -1,
+  "talkSprites": {
+    "Array": []
+  },
+  "talkFramerate": 6
+}

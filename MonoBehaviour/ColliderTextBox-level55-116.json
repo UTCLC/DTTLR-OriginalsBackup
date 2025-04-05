@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 14
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 465
+  },
+  "m_Name": "",
+  "lines": {
+    "Array": [
+      "* (It may be a good idea to\\n  keep on going.)",
+      "* (After all,^05 you're already\\n  pretty strong.)"
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_text",
+      "snd_text"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0,
+      0
+    ]
+  },
+  "portraits": {
+    "Array": []
+  },
+  "remarks": {
+    "Array": []
+  }
+}

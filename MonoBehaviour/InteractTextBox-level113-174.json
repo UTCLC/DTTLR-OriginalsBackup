@@ -1,0 +1,76 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 15
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1472
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* I'm not like that other mole\\n  that's offering people flavors.",
+      "* I actually work at the CORE.",
+      "* Came by today to make sure\\n  Ice Wolf was still throwing\\n  Ice to cool the CORE.",
+      "* And...^10 yup!^05\\n* He certainly is!^05\\n* I sure love PUZZLE!!!"
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_text"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits": {
+    "Array": []
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 1,
+  "lines2": {
+    "Array": [
+      "* I've gotta say,^05 though.^05\\n* There are more moles out today\\n  than I thought there were here."
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_text"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": []
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": 0,
+  "triggerFlag": -1,
+  "forceSecondaryAtFlag": -1,
+  "talkSprites": {
+    "Array": [
+      {
+        "m_FileID": 2,
+        "m_PathID": 12440
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 8347
+      }
+    ]
+  },
+  "talkFramerate": 6
+}

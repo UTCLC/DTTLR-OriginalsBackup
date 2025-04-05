@@ -1,0 +1,111 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 12
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 173
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* (It's a worn-down sentry\\n  station.)",
+      "* (Peek inside?)"
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_text"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits": {
+    "Array": []
+  },
+  "remarks": {
+    "Array": []
+  },
+  "left": "Peek",
+  "leftOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "right": "No",
+  "rightOffset": {
+    "x": 20.0,
+    "y": 0.0
+  },
+  "up": "",
+  "upOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "down": "",
+  "downOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "centerOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "talkSprites": {
+    "Array": []
+  },
+  "talkFramerate": 6,
+  "krisReachFrames": {
+    "Array": [
+      {
+        "m_FileID": 2,
+        "m_PathID": 9699
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 12665
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 10341
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 8599
+      }
+    ]
+  },
+  "krisPetFrames": {
+    "Array": [
+      {
+        "m_FileID": 2,
+        "m_PathID": 7414
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 9985
+      }
+    ]
+  },
+  "dogSprites": {
+    "Array": [
+      {
+        "m_FileID": 2,
+        "m_PathID": 10040
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 10764
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 11055
+      }
+    ]
+  }
+}

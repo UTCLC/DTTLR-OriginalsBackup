@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 31
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 298
+  },
+  "m_Name": "",
+  "isReflection": 1,
+  "xLimit": 5.0,
+  "yLimit": 10.0,
+  "animatorOverride": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "isEnabled": 1,
+  "reflectParent": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "sortingOrderOffset": -600
+}

@@ -1,0 +1,95 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 11
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1472
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* God,^05 smoking dog treats\\n  sounds so lame.",
+      "* ...^05 Is there anything\\n  that doesn't sound lame\\n  to smoke...?",
+      "* Yeah.",
+      "* Chalk."
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_txtsus",
+      "snd_txtnoe",
+      "snd_txtsus",
+      "snd_txtsus"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "su_annoyed",
+      "no_thinking",
+      "su_smirk",
+      "su_smile"
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 1,
+  "lines2": {
+    "Array": [
+      "* Susie,^05 that's dangerous!",
+      "* No it isn't.",
+      "* Didn't you like...^05 smoke\\n  candy canes last year or\\n  somethin'?",
+      "* No!!!^05\\n* You can't even smoke\\n  them!",
+      "* I just had one in\\n  my mouth to look\\n  cool, fahaha!",
+      "* Oh...",
+      "* (Wait,^05 does that mean\\n  she tried to?)"
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_txtnoe",
+      "snd_txtsus",
+      "snd_txtsus",
+      "snd_txtnoe",
+      "snd_txtnoe",
+      "snd_txtsus",
+      "snd_txtsus"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": [
+      "no_scared",
+      "su_side",
+      "su_smirk_sweat",
+      "no_playful",
+      "no_happy",
+      "su_side",
+      "su_surprised"
+    ]
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": 0,
+  "triggerFlag": -1,
+  "forceSecondaryAtFlag": -1,
+  "talkSprites": {
+    "Array": []
+  },
+  "talkFramerate": 6
+}

@@ -1,0 +1,92 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 24
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1472
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* This is ridiculous.",
+      "* The big guy from the guard\\n  won't let me by cuz they're\\n  on high alert.",
+      "* They think there's a human\\n  rummaging around here.",
+      "* O-^05oh,^05 I wonder why\\n  they think that?",
+      "* Right???^05\\n* I swear these dogs are set\\n  off by ANYTHING.",
+      "* Especially ever since the\\n  royal scientist got involved.",
+      "* Wait,^05 ALPHYS?????",
+      "* Noel,^05 if you know her,^05 can\\n  you tell her to STOP training\\n  the dogs to be killers???",
+      "* She ain't part of the guard,^05\\n  and I'm not lookin' to be\\n  oppressed."
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_text",
+      "snd_text",
+      "snd_text",
+      "snd_txtnoe",
+      "snd_text",
+      "snd_text",
+      "snd_txtnoe",
+      "snd_text",
+      "snd_text"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "",
+      "",
+      "",
+      "no_confused_side",
+      "",
+      "",
+      "no_shocked",
+      "",
+      ""
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 1,
+  "lines2": {
+    "Array": [
+      "* Like a human being spotted even\\n  matters these days.",
+      "* With how people act,^05 I'd be\\n  surprised if ANYONE let a\\n  human live.",
+      "* Whatever.^05\\n* Guess I just gotta wait until\\n  they call off the search."
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_text"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": []
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": 0,
+  "triggerFlag": -1,
+  "forceSecondaryAtFlag": -1,
+  "talkSprites": {
+    "Array": []
+  },
+  "talkFramerate": 6
+}

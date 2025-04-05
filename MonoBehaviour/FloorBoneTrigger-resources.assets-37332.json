@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 20105
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 2,
+    "m_PathID": 1093
+  },
+  "m_Name": "",
+  "direction": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "origin": {
+    "x": 34.34,
+    "y": -18.35,
+    "z": 0.0
+  },
+  "objectToSpawn": {
+    "m_FileID": 0,
+    "m_PathID": 19446
+  },
+  "objectToDespawn": {
+    "Array": []
+  }
+}

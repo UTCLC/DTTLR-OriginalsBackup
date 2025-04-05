@@ -1,0 +1,98 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1472
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* Kris,^05 do you think\\n  you can eat the\\n  orange tiles?",
+      "* Susie,^05 I don't think\\n  that's how it works.",
+      "* Well he clearly said\\n  you'd smell delicious.",
+      "I DID IN FACT \\nSAY THAT!!!",
+      "BUT YOU CANNOT \\nEAT THE TILES!",
+      "* Everything about this\\n  keeps getting lamer\\n  and lamer."
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_txtsus",
+      "snd_txtnoe",
+      "snd_txtsus",
+      "snd_txtpap",
+      "snd_txtpap",
+      "snd_txtsus"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "su_neutral",
+      "no_playful",
+      "su_smile_side",
+      "ufpap_neutral",
+      "ufpap_side",
+      "su_annoyed"
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 1,
+  "lines2": {
+    "Array": [
+      "* Just do the puzzle,^05\\n  Kris.",
+      "* You're smart,^05 right?",
+      "* You're like... number\\n  three in our class?",
+      "* Whatever the hell\\n  Berdly was on about?",
+      "* Whatever.^05\\n* Let's do this.",
+      "* (...?)"
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_txtsus",
+      "snd_txtsus",
+      "snd_txtsus",
+      "snd_txtsus",
+      "snd_txtsus",
+      "snd_txtnoe"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": [
+      "su_annoyed",
+      "su_smile_side",
+      "su_neutral",
+      "su_inquisitive",
+      "su_neutral",
+      "no_thinking"
+    ]
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": 0,
+  "triggerFlag": -1,
+  "forceSecondaryAtFlag": -1,
+  "talkSprites": {
+    "Array": []
+  },
+  "talkFramerate": 6
+}

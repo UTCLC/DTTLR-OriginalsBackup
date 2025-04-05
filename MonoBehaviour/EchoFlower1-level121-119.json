@@ -1,0 +1,104 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 18
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1390
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* (It seems to be making the\\n  sound of rushing water.)",
+      "* Is it like a water\\n  flower or something?"
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_text",
+      "snd_txtsus"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "",
+      "su_side"
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 1,
+  "lines2": {
+    "Array": [
+      "* Is it like a water flower\\n  or something?",
+      "* HEY!!!^05\\n* IT COPIED ME!!!",
+      "* I think I know\\n  what this is.",
+      "* It's called an Echo\\n  Flower.",
+      "* They grow in marsh areas,^05\\n  and I think they're\\n  adverse to sunlight...?",
+      "* So they're pretty\\n  rare in our world.",
+      "* They're infamous for\\n  constantly repeating any\\n  sound it hears.",
+      "* (It's...^05 really freaky.)",
+      "* Well it's a good\\n  thing we don't live\\n  near a swamp,^05 faha!"
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_txtsus",
+      "snd_txtsus",
+      "snd_txtnoe",
+      "snd_txtnoe",
+      "snd_txtnoe",
+      "snd_txtnoe",
+      "snd_txtnoe",
+      "snd_txtsus",
+      "snd_txtnoe"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": [
+      "",
+      "su_angry",
+      "no_curious",
+      "no_neutral",
+      "no_curious",
+      "no_neutral",
+      "no_weird",
+      "su_smirk_sweat",
+      "no_happy"
+    ]
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": 0,
+  "triggerFlag": 304,
+  "forceSecondaryAtFlag": 304,
+  "talkSprites": {
+    "Array": [
+      {
+        "m_FileID": 2,
+        "m_PathID": 12707
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 12577
+      }
+    ]
+  },
+  "talkFramerate": 6
+}

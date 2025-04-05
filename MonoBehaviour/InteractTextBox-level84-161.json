@@ -1,0 +1,80 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 10
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1472
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* SMELL DANGER RATING",
+      "* Snow Smell - Snowman\\n  WHITE Rating\\n  Can become <color=#FFFF00FF>YELLOW</color> Rating",
+      "* Unsuspicious Smell - Puppy\\n  <color=#0000FFFF>BLUE</color> Rating\\n  Smell of rolling around.",
+      "* Weird Smell - Humans\\n  <color=#FF0000FF>GREEN</color> Rating\\n  Destroy at all costs!"
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_text"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      ""
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 1,
+  "lines2": {
+    "Array": [
+      "* Okay,^05 so what if instead\\n  of fighting whoever\\n  these weirdos are...",
+      "* We talk them out of\\n  fighting us.",
+      "* They seem like they'd\\n  be normal enough to\\n  actually TALK to.",
+      "* I can't really see that\\n  happening,^05 but I guess\\n  it's worth a try...?"
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_txtsus",
+      "snd_txtsus",
+      "snd_txtsus",
+      "snd_txtnoe"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": [
+      "su_smile_sweat",
+      "su_smile",
+      "su_smile_sweat",
+      "no_happy"
+    ]
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": 0,
+  "triggerFlag": -1,
+  "forceSecondaryAtFlag": -1,
+  "talkSprites": {
+    "Array": []
+  },
+  "talkFramerate": 6
+}

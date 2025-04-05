@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 17
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 649
+  },
+  "m_Name": "",
+  "m_AssetsPPU": 48,
+  "m_RefResolutionX": 640,
+  "m_RefResolutionY": 480,
+  "m_UpscaleRT": 1,
+  "m_PixelSnapping": 0,
+  "m_CropFrameX": 1,
+  "m_CropFrameY": 1,
+  "m_StretchFill": 1
+}

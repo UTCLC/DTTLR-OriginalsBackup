@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 2,
+    "m_PathID": 154
+  },
+  "m_Name": "_waterfall_0_right",
+  "m_AnimatedSprites": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 13632
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 13679
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 13724
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 13768
+      }
+    ]
+  },
+  "m_MinSpeed": 1.0,
+  "m_MaxSpeed": 1.0,
+  "m_AnimationStartTime": 0.0,
+  "m_AnimationStartFrame": 0,
+  "m_TileColliderType": 0,
+  "m_TileAnimationFlags": 0
+}

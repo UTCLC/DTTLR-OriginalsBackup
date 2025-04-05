@@ -1,0 +1,85 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 14
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1472
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* (For some strange reason,^05\\n  you heard rambling behind\\n  the door.)",
+      "* Yes...^05 he'll kill the first\\n  one that he sees...",
+      "* He'll absorb it and end this\\n  horrid world...",
+      "* ... Ms. Dreemurr???\\n^05* Is that you?!",
+      "* Are you okay???\\n^05* Can you even hear\\n  me???",
+      "* Okay,^05 did we end\\n  up in the crazy\\n  dimension or something?"
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_text",
+      "snd_txttor",
+      "snd_txttor",
+      "snd_txtnoe",
+      "snd_txtnoe",
+      "snd_txtsus"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "",
+      "",
+      "",
+      "no_afraid",
+      "no_afraid_open",
+      "su_side_sweat"
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 1,
+  "lines2": {
+    "Array": [
+      "* (The door is locked.)"
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_text"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": []
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": 0,
+  "triggerFlag": 155,
+  "forceSecondaryAtFlag": 155,
+  "talkSprites": {
+    "Array": []
+  },
+  "talkFramerate": 6
+}

@@ -1,0 +1,15 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 19988
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 2,
+    "m_PathID": 1099
+  },
+  "m_Name": "",
+  "sineTimer": 150,
+  "xSpeed": 0.5,
+  "rotationSpeed": 0.5
+}

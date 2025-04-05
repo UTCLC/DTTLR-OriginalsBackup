@@ -1,0 +1,56 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 18589
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 2,
+    "m_PathID": 614
+  },
+  "m_Name": "",
+  "emergeSprites": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 9807
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 10988
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 10766
+      }
+    ]
+  },
+  "sprites": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 12092
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 9541
+      }
+    ]
+  },
+  "burrowSprites": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 10543
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 10828
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 12366
+      }
+    ]
+  }
+}

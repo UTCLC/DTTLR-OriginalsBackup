@@ -1,0 +1,123 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 17
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1462
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* Though you may not believe it,^05\\n  I am a healer.",
+      "* If you have a condition that\\n  cannot be treated at the\\n  hospital...",
+      "* It's my job to cure you.",
+      "* It appears that you are not\\n  suffering of anything\\n  strange...",
+      "* Nor are you suffering a\\n  concussion.",
+      "* Come back when necessary."
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_text",
+      "snd_text",
+      "snd_text",
+      "snd_text",
+      "snd_text",
+      "snd_text"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 0,
+  "lines2": {
+    "Array": [
+      "* Hey man,^05 no judging!",
+      "* What if I judged YOUR\\n  religion?",
+      "* Dude,^05 if you're doing\\n  stuff like sacrifices,^05\\n  you're in a cult.",
+      "* You aren't doing doing\\n  sacrifices,^05 right?",
+      "* ..."
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_text",
+      "snd_text",
+      "snd_txtsus",
+      "snd_txtsus",
+      "snd_text"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": [
+      "",
+      "",
+      "su_annoyed",
+      "su_side_sweat",
+      ""
+    ]
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": 0,
+  "triggerFlag": -1,
+  "forceSecondaryAtFlag": -1,
+  "talkSprites": {
+    "Array": []
+  },
+  "talkFramerate": 6,
+  "maxPos": {
+    "x": 50.42,
+    "y": -34.05,
+    "z": 0.0
+  },
+  "minPos": {
+    "x": 46.31,
+    "y": -36.2,
+    "z": 0.0
+  },
+  "waitLength": 45,
+  "walkLength": 20,
+  "walkSpeed": 3,
+  "sortingOrderOffset": 0,
+  "forceDisableWander": 0,
+  "defaultLook": {
+    "x": 0.0,
+    "y": 0.0
+  }
+}

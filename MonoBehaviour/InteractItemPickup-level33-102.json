@@ -1,0 +1,146 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 12
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1313
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* It's a plastic toy knife.\\n* Pick it up?"
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_text"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits": {
+    "Array": []
+  },
+  "remarks": {
+    "Array": []
+  },
+  "left": "Yes",
+  "leftOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "right": "No",
+  "rightOffset": {
+    "x": 38.0,
+    "y": 0.0
+  },
+  "up": "",
+  "upOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "down": "",
+  "downOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "centerOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "talkSprites": {
+    "Array": []
+  },
+  "talkFramerate": 6,
+  "flag": 49,
+  "itemID": 13,
+  "purchaseLines": {
+    "Array": [
+      "* You got the Toy Knife.\\n* It was added to your\\n  EQUIPMENT.",
+      "* Oh shoot,^05 Kris!\\n^05* A knife!",
+      "* You should totally equip\\n  that.\\n* Those are your style.",
+      "* Huh?\\n^10* Me?",
+      "* Uhhm...^10 I...^10 kinda\\n  like my big pencil.",
+      "* I'm only gonna give this\\n  up if there's like...\\n  a big ass stick."
+    ]
+  },
+  "purchaseSounds": {
+    "Array": [
+      "snd_text",
+      "snd_txtsus",
+      "snd_txtsus",
+      "snd_txtsus",
+      "snd_txtsus",
+      "snd_txtsus"
+    ]
+  },
+  "purchaseSpeed": {
+    "Array": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "purchasePortraits": {
+    "Array": [
+      "",
+      "su_surprised",
+      "su_smile",
+      "su_surprised",
+      "su_flustered",
+      "su_teeth_eyes"
+    ]
+  },
+  "rejectLines": {
+    "Array": []
+  },
+  "rejectSounds": {
+    "Array": [
+      "snd_text"
+    ]
+  },
+  "rejectSpeed": {
+    "Array": [
+      0
+    ]
+  },
+  "rejectPortraits": {
+    "Array": []
+  },
+  "noSpaceLines": {
+    "Array": [
+      "* You don't have enough space\\n  in your EQUIPMENT.",
+      "* Wait,^05 didn't you tell me\\n  that you're like...\\n  organizing your items?",
+      "* How the hell did you\\n  run out of equipment\\n  space!?"
+    ]
+  },
+  "noSpaceSounds": {
+    "Array": [
+      "snd_text",
+      "snd_text",
+      "snd_text"
+    ]
+  },
+  "noSpaceSpeed": {
+    "Array": [
+      0
+    ]
+  },
+  "noSpacePortraits": {
+    "Array": [
+      "",
+      "su_inquisitive",
+      "su_angry"
+    ]
+  }
+}

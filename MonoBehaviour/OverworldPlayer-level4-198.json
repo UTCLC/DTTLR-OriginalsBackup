@@ -1,0 +1,15 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 37
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1392
+  },
+  "m_Name": "",
+  "partyMember": 0,
+  "cellphoneCall": 0,
+  "noclip": 0
+}

@@ -1,0 +1,96 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 22
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1098
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* There's a hole here."
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_text"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits": {
+    "Array": []
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 0,
+  "lines2": {
+    "Array": [
+      "* (This flag has nothing else\\n  to offer.)"
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_text"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": []
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": 0,
+  "triggerFlag": -1,
+  "forceSecondaryAtFlag": -1,
+  "talkSprites": {
+    "Array": []
+  },
+  "talkFramerate": 6,
+  "flags": {
+    "Array": [
+      {
+        "m_FileID": 2,
+        "m_PathID": 10514
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 7299
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 9199
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 8386
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 12319
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 12276
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 10288
+      }
+    ]
+  }
+}

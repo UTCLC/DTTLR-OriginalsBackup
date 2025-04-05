@@ -1,0 +1,119 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 12
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1313
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* (There's a katana stuck in the\\n  ground.)^05\\n* (Take it?)"
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_text"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits": {
+    "Array": []
+  },
+  "remarks": {
+    "Array": []
+  },
+  "left": "Pull sword",
+  "leftOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "right": "No",
+  "rightOffset": {
+    "x": 20.0,
+    "y": 0.0
+  },
+  "up": "",
+  "upOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "down": "",
+  "downOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "centerOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "talkSprites": {
+    "Array": []
+  },
+  "talkFramerate": 6,
+  "flag": 273,
+  "itemID": 41,
+  "purchaseLines": {
+    "Array": [
+      "* (You pulled the Bluster Blade.)",
+      "* (You can feel its wind\\n  blowing in your face as\\n  you hold it in your hands.)"
+    ]
+  },
+  "purchaseSounds": {
+    "Array": [
+      "snd_text"
+    ]
+  },
+  "purchaseSpeed": {
+    "Array": [
+      0
+    ]
+  },
+  "purchasePortraits": {
+    "Array": []
+  },
+  "rejectLines": {
+    "Array": [
+      "* (You decided to leave it\\n  at peace.)"
+    ]
+  },
+  "rejectSounds": {
+    "Array": [
+      "snd_text"
+    ]
+  },
+  "rejectSpeed": {
+    "Array": [
+      0
+    ]
+  },
+  "rejectPortraits": {
+    "Array": []
+  },
+  "noSpaceLines": {
+    "Array": [
+      "* (You don't have the space\\n  to carry it.)"
+    ]
+  },
+  "noSpaceSounds": {
+    "Array": [
+      "snd_text"
+    ]
+  },
+  "noSpaceSpeed": {
+    "Array": [
+      0
+    ]
+  },
+  "noSpacePortraits": {
+    "Array": []
+  }
+}

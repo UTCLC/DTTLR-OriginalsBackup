@@ -1,0 +1,88 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 11
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1472
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* Ribbit,^10 ribbit.\\n^10* (Ooh,^10 are you two Kris\\n  and Susie?)",
+      "* HOW DO YOU KNOW\\n  WHO WE ARE???",
+      "* Ribbit,^10 ribbit.\\n^10* (<color=#0000FFFF>TORIEL</color> has been talking about\\n  you two a lot.)",
+      "* (She apparently has a surprise\\n  for you.)",
+      "* Huh?",
+      "* (Don't keep her waiting now.)\\n* Ribbit."
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_text",
+      "snd_txtsus",
+      "snd_text",
+      "snd_text",
+      "snd_txtsus",
+      "snd_text"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "",
+      "su_angry",
+      "",
+      "",
+      "su_surprised",
+      ""
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 1,
+  "lines2": {
+    "Array": [
+      "* (Don't keep her waiting now.)\\n* Ribbit."
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_text"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": [
+      ""
+    ]
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": 13,
+  "vanishAtCount": 2,
+  "triggerFlag": -1,
+  "forceSecondaryAtFlag": -1,
+  "talkSprites": {
+    "Array": []
+  },
+  "talkFramerate": 6
+}

@@ -1,0 +1,84 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 31
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1472
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* No matter where you\\n  go,^05 you can never\\n  escape the holidays.",
+      "* Yeah cuz you're right\\n  here.",
+      "* Huh?????^05\\n* What does THAT mean???",
+      "* I didn't mean it in\\n  a bad way???",
+      "* I...!",
+      "* ...",
+      "* What."
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_txtnoe",
+      "snd_txtsus",
+      "snd_txtnoe",
+      "snd_txtsus",
+      "snd_txtnoe",
+      "snd_txtnoe",
+      "snd_txtsus"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "no_confused",
+      "su_smile_side",
+      "no_scared",
+      "su_inquisitive",
+      "no_scared",
+      "no_silent_side",
+      "su_side_sweat"
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 1,
+  "lines2": {
+    "Array": [
+      "* (You feel that nearby mistletoe\\n  would make the moment more\\n  awkward.)"
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_text"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": []
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": 0,
+  "triggerFlag": -1,
+  "forceSecondaryAtFlag": -1,
+  "talkSprites": {
+    "Array": []
+  },
+  "talkFramerate": 6
+}

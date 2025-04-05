@@ -1,0 +1,84 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 19
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1472
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* (It's some kind of sentry\\n  station.)",
+      "* (There are bottles of ketchup,^05\\n  mustard,^05 and relish sitting\\n  inside.)",
+      "* Is this supposed to\\n  be some kind of\\n  hot dog stand...?"
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_text",
+      "snd_text",
+      "snd_txtnoe"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0,
+      0,
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "",
+      "",
+      "no_curious"
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 1,
+  "lines2": {
+    "Array": [
+      "* Who would even eat\\n  hot dogs out here\\n  anyway???",
+      "* Except for me,^05 y'know.",
+      "* (I wouldn't mind...)"
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_txtsus",
+      "snd_txtsus",
+      "snd_txtnoe"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0,
+      0,
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": [
+      "su_angry",
+      "su_teeth_eyes",
+      "no_blush"
+    ]
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": 0,
+  "triggerFlag": -1,
+  "forceSecondaryAtFlag": -1,
+  "talkSprites": {
+    "Array": []
+  },
+  "talkFramerate": 6
+}

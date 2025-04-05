@@ -1,0 +1,96 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1472
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* Love,^05 hope,^05 compassion...^05\\n* This is what people say\\n  monster SOULs are made of.",
+      "* But the absolute nature of\\n  \"SOUL\" is unknown.",
+      "* After all,^05 humans have proven\\n  their SOULs don't need these\\n  things to exist.",
+      "* How much research\\n  did they do on\\n  SOULs here...?",
+      "* Because there's so much\\n  distinction between\\n  humans and monsters.",
+      "* Not to mention humans\\n  as an oppressor.",
+      "* I mean we know that\\n  humans are more powerful\\n  than monsters,^05 but...",
+      "* That hasn't ever been\\n  relevant since ancient\\n  times.",
+      "* Y'know...^05 I don't think\\n  it matters.",
+      "* All that matters is\\n  we can get home.",
+      "* I'm just curious,^05 that's\\n  all!"
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_text",
+      "snd_text",
+      "snd_text",
+      "snd_txtnoe",
+      "snd_txtnoe",
+      "snd_txtnoe",
+      "snd_txtnoe",
+      "snd_txtnoe",
+      "snd_txtsus",
+      "snd_txtsus",
+      "snd_txtnoe"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "",
+      "",
+      "",
+      "no_confused",
+      "no_confused_side",
+      "no_weird",
+      "no_thinking",
+      "no_curious",
+      "su_side",
+      "su_annoyed",
+      "no_confused"
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 0,
+  "lines2": {
+    "Array": [
+      "* [NO_TEXT]"
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_text"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": []
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": 0,
+  "triggerFlag": -1,
+  "forceSecondaryAtFlag": -1,
+  "talkSprites": {
+    "Array": []
+  },
+  "talkFramerate": 6
+}

@@ -1,0 +1,118 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1472
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* (I wonder if the big guy\\n  even knows that we were\\n  tasked with hunting a human.)",
+      "* (He always sleeps in,^05 so I\\n  doubt it.)",
+      "* (Unless she's THAT desperate.)",
+      "* She...?",
+      "* (Yeah,^05 the head of the royal\\n  guard.)",
+      "* (Everyone knows her!)",
+      "* (Could be less cryptic,^05\\n  asshole.)"
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_text",
+      "snd_text",
+      "snd_text",
+      "snd_txtnoe",
+      "snd_text",
+      "snd_text",
+      "snd_txtsus"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "",
+      "",
+      "",
+      "no_thinking",
+      "",
+      "",
+      "su_annoyed"
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 0,
+  "lines2": {
+    "Array": [
+      "* (...^05 That smell...)",
+      "* (It makes me want to...^10\\n  eliminate you...)",
+      "* Uh,^05 aren't we in\\n  a public place?",
+      "* (I wasn't going to fight you,^05\\n  but it makes me...)",
+      "* (... Angry...)",
+      "* ..."
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_text",
+      "snd_text",
+      "snd_txtsus",
+      "snd_text",
+      "snd_text",
+      "snd_txtnoe"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": [
+      "",
+      "",
+      "su_shocked",
+      "",
+      "",
+      "no_depressed"
+    ]
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": 0,
+  "triggerFlag": -1,
+  "forceSecondaryAtFlag": -1,
+  "talkSprites": {
+    "Array": [
+      {
+        "m_FileID": 2,
+        "m_PathID": 8477
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 12308
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 8477
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 10375
+      }
+    ]
+  },
+  "talkFramerate": 6
+}

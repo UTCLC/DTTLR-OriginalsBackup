@@ -1,0 +1,31 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 104
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1229
+  },
+  "m_Name": "",
+  "hide": 1,
+  "newScene": 80,
+  "newPos": {
+    "x": 18.05,
+    "y": -0.27
+  },
+  "vertical": 0,
+  "downOrLeft": 1,
+  "fadeType": 0,
+  "forceActivationFlag": -1,
+  "denyText": "DO NOT LEAVE WITH \\nTHE ORB!!!^10\\nBRING IT HERE!!!",
+  "denySound": "snd_txtpap",
+  "denyPortrait": "ufpap_mad",
+  "denyNudge": {
+    "x": 0.041666668,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "fadeMusic": 0
+}

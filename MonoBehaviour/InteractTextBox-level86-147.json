@@ -1,0 +1,98 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1472
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* (It's a plate of frozen\\n  spaghetti.)",
+      "* Hell yeah!^10\\n* Table spaghetti!",
+      "* ...",
+      "* Hey,^05 it's stuck to\\n  the table."
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_text",
+      "snd_txtsus",
+      "snd_txtsus",
+      "snd_txtsus"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "",
+      "su_smile",
+      "su_smile_side",
+      "su_side_sweat"
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 1,
+  "lines2": {
+    "Array": [
+      "* WHY WON'T IT COME\\n  OFF!??!",
+      "* Susie,^05 I'm pretty sure\\n  it's frozen.",
+      "* Oh...",
+      "* Hey,^05 what if I used\\n  RUDE BUSTER?!?!?",
+      "* It m-^05might actually\\n  DESTROY the spaghetti...",
+      "* And,^05 umm,^05 the table\\n  too...",
+      "* ...^05 FINE,^05 I won't\\n  destroy the table."
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_txtsus",
+      "snd_txtnoe",
+      "snd_txtsus",
+      "snd_txtsus",
+      "snd_txtnoe",
+      "snd_txtnoe",
+      "snd_txtsus"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": [
+      "su_wtf",
+      "no_happy",
+      "su_side",
+      "su_excited",
+      "no_surprised_happy",
+      "no_weird",
+      "su_annoyed"
+    ]
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": 0,
+  "triggerFlag": -1,
+  "forceSecondaryAtFlag": -1,
+  "talkSprites": {
+    "Array": []
+  },
+  "talkFramerate": 6
+}

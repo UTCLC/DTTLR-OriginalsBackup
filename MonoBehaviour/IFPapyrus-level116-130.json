@@ -1,0 +1,157 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 12
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1461
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "OH,^05 HELLO THERE!",
+      "ARE YOU PERHAPS \\nDIMENSION TRAVELLING \\nLIKE I AM?",
+      "* H-^05how'd you know?",
+      "I CAN TELL MY \\nFRISKS FROM MY \\nCHARAS.",
+      "AND I CAN TELL \\nTHAT YOU ARE...",
+      "...",
+      "WHAT'S YOUR NAME?",
+      "* Uh,^05 not Frisk OR\\n  Chara.",
+      "* Name's Susie,^05 and this\\n  is Kris and Noelle.",
+      "* And you're Papyrus,^05\\n  right?",
+      "QUITE THE DELTA-\\nTRAVELLING TRIO,^05 \\nAREN'T YOU?",
+      "AND WHAT A FAMILIAR \\nNAME...",
+      "* I mean,^05 we kind of\\n  got caught up in\\n  this.",
+      "* We're just trying to\\n  get home.",
+      "* So you got here on\\n  your own?",
+      "ACTUALLY,^05 NO.",
+      "I WALKED THROUGH A \\nGREY DOOR AND ENDED \\nUP HERE...",
+      "A STRANGE ALTERNATE \\nVERSION OF MY OWN \\nWORLD!",
+      "BUT I'M TRYING TO \\nLAY LOW,^05 SO AS \\nTO NOT CAUSE ISSUES.",
+      "* Like...?",
+      "ANYTHING THAT MAY \\nHAPPEN WHEN FINDING \\nMYSELF!",
+      "* (Did we dodge a bullet?)",
+      "BUT I HAVE GROWN \\nQUITE BORED SITTING \\nHERE.",
+      "THIS WORLD'S COUNTER-\\nPART OF ME IS STILL \\nQUITE ACTIVE...",
+      "AND I'M WAITING \\nFOR HIM TO GO \\nON HIS WAY.",
+      "SO...",
+      "WOULD YOU THREE \\nLIKE TO PLAY UNO?",
+      "I HAVE SOME PRIZES \\nI CAN GIVE IF \\nYOU WIN,^05 KRIS.",
+      "* (Why is it just\\n  KRIS???)^05\\n* (AGAIN???)"
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_txtpap",
+      "snd_txtpap",
+      "snd_txtnoe",
+      "snd_txtpap",
+      "snd_txtpap",
+      "snd_txtpap",
+      "snd_txtpap",
+      "snd_txtsus",
+      "snd_txtsus",
+      "snd_txtsus",
+      "snd_txtpap",
+      "snd_txtpap",
+      "snd_txtnoe",
+      "snd_txtnoe",
+      "snd_txtsus",
+      "snd_txtpap",
+      "snd_txtpap",
+      "snd_txtpap",
+      "snd_txtpap",
+      "snd_txtsus",
+      "snd_txtpap",
+      "snd_txtnoe",
+      "snd_txtpap",
+      "snd_txtpap",
+      "snd_txtpap",
+      "snd_txtpap",
+      "snd_txtpap",
+      "snd_txtpap",
+      "snd_txtsus"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "ifpap_neutral",
+      "ifpap_confused",
+      "no_shocked",
+      "ifpap_confident",
+      "ifpap_laugh",
+      "ifpap_laugh",
+      "ifpap_side",
+      "su_annoyed",
+      "su_side",
+      "su_neutral",
+      "ifpap_laugh",
+      "ifpap_side",
+      "no_weird",
+      "no_happy",
+      "su_smirk_sweat",
+      "ifpap_side",
+      "ifpap_neutral",
+      "ifpap_neutral",
+      "ifpap_side",
+      "su_smile_side",
+      "ifpap_worry",
+      "no_shocked",
+      "ifpap_side",
+      "ifpap_side",
+      "ifpap_neutral",
+      "ifpap_laugh",
+      "ifpap_neutral",
+      "ifpap_neutral",
+      "su_angry"
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "left": "Play",
+  "leftOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "right": "No thanks",
+  "rightOffset": {
+    "x": -40.0,
+    "y": 0.0
+  },
+  "up": "Rules",
+  "upOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "down": "Prizes",
+  "downOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "centerOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "talkSprites": {
+    "Array": [
+      {
+        "m_FileID": 2,
+        "m_PathID": 10981
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 8288
+      }
+    ]
+  },
+  "talkFramerate": 6
+}

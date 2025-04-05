@@ -1,0 +1,90 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1472
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* While monsters are mostly made\\n  of magic,^05 human beings are\\n  mostly made of water.",
+      "* Humans,^05 with their physical\\n  forms,^05 are far stronger\\n  than us.",
+      "* But they will never know\\n  the joy of expressing\\n  themselves through magic.",
+      "* They'll never get a bullet-\\n  pattern birthday card...",
+      "* I've never gotten a\\n  bullet-pattern birthday\\n  card before...?",
+      "* Prolly cuz no one\\n  knows how to make\\n  one at home.",
+      "* Well,^05 this book says\\n  we're made of magic,^05\\n  like back home.",
+      "* And we're able to\\n  cast magic here,^05 so...",
+      "* This is really confusing."
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_text",
+      "snd_text",
+      "snd_text",
+      "snd_text",
+      "snd_txtnoe",
+      "snd_txtsus",
+      "snd_txtnoe",
+      "snd_txtnoe",
+      "snd_txtnoe"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "",
+      "",
+      "",
+      "",
+      "no_thinking",
+      "su_annoyed",
+      "no_curious",
+      "no_confused",
+      "no_weird"
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 0,
+  "lines2": {
+    "Array": [
+      "* [NO_TEXT]"
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_text"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": []
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": 0,
+  "triggerFlag": -1,
+  "forceSecondaryAtFlag": -1,
+  "talkSprites": {
+    "Array": []
+  },
+  "talkFramerate": 6
+}

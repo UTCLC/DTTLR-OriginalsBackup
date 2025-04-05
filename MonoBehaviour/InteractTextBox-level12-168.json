@@ -1,0 +1,104 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 30
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1472
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* Do you need some\\n  ideas for conversation\\n  topics?",
+      "* Well,^05 I often start with\\n  a simple 'how do you\\n  do...'",
+      "* You could ask them about\\n  their favorite books...",
+      "* Jokes can be useful for\\n  'breaking the ice.'",
+      "* Listen to this one...",
+      "* What did the skeleton\\n  tile his roof with?",
+      "* ...^05 SHIN-gles!",
+      "* ...",
+      "* Well,^05 I thought it\\n  was amusing."
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_txttor",
+      "snd_txttor",
+      "snd_txttor",
+      "snd_txttor",
+      "snd_txttor",
+      "snd_txttor",
+      "snd_txttor",
+      "snd_txttor",
+      "snd_txttor"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "tori_happy",
+      "tori_happy",
+      "tori_happy",
+      "tori_happy",
+      "tori_happy",
+      "tori_happy",
+      "tori_happy",
+      "tori_worry",
+      "tori_happy"
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 1,
+  "lines2": {
+    "Array": [
+      "* Practice talking to\\n  the dummy.",
+      "* You can say anything...^10\\n* The dummy will not\\n  be bothered."
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_txttor",
+      "snd_txttor"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0,
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": [
+      "tori_neutral",
+      "tori_happy"
+    ]
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": 0,
+  "triggerFlag": -1,
+  "forceSecondaryAtFlag": -1,
+  "talkSprites": {
+    "Array": []
+  },
+  "talkFramerate": 6
+}

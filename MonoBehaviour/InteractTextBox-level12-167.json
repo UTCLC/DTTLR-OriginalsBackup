@@ -1,0 +1,88 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 29
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1472
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* Honestly dude,^05 you're\\n  missing out on\\n  some info.",
+      "* I could tell you\\n  about using my MAGIC\\n  and how TP works...",
+      "* ... I have never\\n  heard of those.",
+      "* How could you lie\\n  with such a\\n  straight face?",
+      "* Not my fault that\\n  you haven't learned\\n  about it."
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_txtsus",
+      "snd_txtsus",
+      "snd_txttor",
+      "snd_txttor",
+      "snd_txtsus"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "su_side",
+      "su_smirk",
+      "tori_weird",
+      "tori_annoyed",
+      "su_smile"
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 1,
+  "lines2": {
+    "Array": [
+      "* (Honestly,^05 you should\\n  hit the dummy\\n  out of spite.)",
+      "* (It's just a dummy,^05\\n  after all...)"
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_txtsus",
+      "snd_txtsus"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0,
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": [
+      "su_smirk",
+      "su_smile_side"
+    ]
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": 0,
+  "triggerFlag": -1,
+  "forceSecondaryAtFlag": -1,
+  "talkSprites": {
+    "Array": []
+  },
+  "talkFramerate": 6
+}

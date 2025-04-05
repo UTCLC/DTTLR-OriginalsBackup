@@ -1,0 +1,130 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 25
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 203
+  },
+  "m_Name": "",
+  "lines": {
+    "Array": [
+      "* If you touch that really\\n  big red rabbit^05, you'll die.",
+      "* But it'll be a MAGICAL death.^10\\n* A reverse cymbal..."
+    ]
+  },
+  "sound": {
+    "Array": [
+      "snd_text",
+      "snd_text"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0,
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "",
+      ""
+    ]
+  },
+  "eventType": 0,
+  "eventData": 0,
+  "optionA": "",
+  "optionAItem": 0,
+  "optionALines": {
+    "Array": []
+  },
+  "optionASound": {
+    "Array": []
+  },
+  "optionASpeed": {
+    "Array": []
+  },
+  "optionAPortraits": {
+    "Array": []
+  },
+  "optionB": "",
+  "optionBItem": 0,
+  "optionBLines": {
+    "Array": []
+  },
+  "optionBSound": {
+    "Array": []
+  },
+  "optionBSpeed": {
+    "Array": []
+  },
+  "optionBPortraits": {
+    "Array": []
+  },
+  "ctmLines": {
+    "Array": [
+      "* (You're carrying too much.)"
+    ]
+  },
+  "ctmSound": {
+    "Array": []
+  },
+  "ctmSpeed": {
+    "Array": []
+  },
+  "ctmPortraits": {
+    "Array": [
+      ""
+    ]
+  },
+  "defeatStealLines": {
+    "Array": []
+  },
+  "defeatStealSound": {
+    "Array": []
+  },
+  "defeatStealSpeed": {
+    "Array": []
+  },
+  "defeatStealPortraits": {
+    "Array": []
+  },
+  "defeatSaveLines": {
+    "Array": []
+  },
+  "defeatSaveSound": {
+    "Array": []
+  },
+  "defeatSaveSpeed": {
+    "Array": []
+  },
+  "defeatSavePortraits": {
+    "Array": []
+  },
+  "defeatKilledLines": {
+    "Array": []
+  },
+  "defeatKilledSound": {
+    "Array": []
+  },
+  "defeatKilledSpeed": {
+    "Array": []
+  },
+  "defeatKilledPortraits": {
+    "Array": []
+  },
+  "altLines": {
+    "Array": []
+  },
+  "altSounds": {
+    "Array": []
+  },
+  "altSpeed": {
+    "Array": []
+  },
+  "altPortraits": {
+    "Array": []
+  }
+}

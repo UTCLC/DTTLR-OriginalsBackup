@@ -1,0 +1,89 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 9
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1472
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* Turn every X into -----^05\\n* Then press the switch.",
+      "* Love it when the\\n  answer is just...^05\\n  Gone.",
+      "* Well,^05 why don't we\\n  find out what to\\n  do ourselves?",
+      "* Whatever.^05\\n* We don't really have\\n  a choice."
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_text",
+      "snd_txtsus",
+      "snd_txtnoe",
+      "snd_txtsus"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "",
+      "su_neutral",
+      "no_happy",
+      "su_annoyed"
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 1,
+  "lines2": {
+    "Array": [
+      "* Y'know...^05\\n* Why don't we just\\n  step over the spikes?",
+      "* What if they r-^05raise\\n  higher...",
+      "* That sounds kinda\\n  badass,^05 not gonna\\n  lie.",
+      "* Is it worth it if you\\n  aren't alive to see it?",
+      "* Y'know what,^05 fair point."
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_txtsus",
+      "snd_txtnoe",
+      "snd_txtsus",
+      "snd_txtnoe",
+      "snd_txtsus"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": [
+      "su_smile_sweat",
+      "no_shocked",
+      "su_excited",
+      "no_weird",
+      "su_smirk_sweat"
+    ]
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": 0,
+  "triggerFlag": -1,
+  "forceSecondaryAtFlag": 213,
+  "talkSprites": {
+    "Array": []
+  },
+  "talkFramerate": 6
+}

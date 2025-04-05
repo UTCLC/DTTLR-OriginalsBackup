@@ -1,0 +1,109 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 21485
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 2,
+    "m_PathID": 1329
+  },
+  "m_Name": "",
+  "textSound": "snd_txtsans",
+  "fontName": "sans",
+  "greetMessage": "*\\theya.^10\\n*\\thow can i help\\n\\tya?",
+  "idleMessage": "*\\tnot really doing\\n\\tanything else.",
+  "exitMessage": "wink`*\\tsee ya later.",
+  "buyGreet": "whaddya \\nwant?",
+  "buySuccess": "wink`thanks.",
+  "buyReject": "neutral`ya don't \\nwant that?",
+  "buyNoMoney": "side`you don't \\nhave the \\nmoney.",
+  "buyNoSpace": "neutral`you're \\ncarrying \\ntoo much \\nstuff.",
+  "item1ID": 33,
+  "item1price": 75,
+  "item1ShortDesc": "Changes AT\\nwith HP",
+  "item2ID": 34,
+  "item2price": 80,
+  "item2ShortDesc": "Icicle that\\nnever melts!",
+  "item3ID": 35,
+  "item3price": 30,
+  "item3ShortDesc": "Eat it twice!",
+  "item4ID": 37,
+  "item4price": 45,
+  "item4ShortDesc": "Q.C.'s recipe",
+  "sellPrompt": {
+    "Array": [
+      "neutral`*\\they,^05 i'm trying to get rid of\\n\\tstuff,^05 not get more.",
+      "wink`*\\tmaybe if we get back to the\\n\\tunderground,^05 we can see if my\\n\\tbrother wants anything.",
+      "side`*\\twell,^05 when we get back to\\n\\tMY underground."
+    ]
+  },
+  "talkGreet": "wink`i can tell \\nyou about \\nshopping \\nstuff.",
+  "topic1": "About yourself",
+  "topic1lines": {
+    "Array": [
+      "wink`*\\they,^05 i don't think i asked\\n\\twhat your name was.",
+      "closed`*\\t...^10 kris,^05 huh.",
+      "neutral`*\\tthat's cool.",
+      "wink`*\\ti'm sans.^10\\n*\\tsans the skeleton.",
+      "closed`*\\tbut you already knew that.",
+      "closed`*\\tand because you already\\n\\tknew that,^05 i'm gonna tell you\\n\\tsomething that you <color=#FFFF00FF>don't know</color>.",
+      "closed`*\\t...",
+      "side`*\\tactually wait a sec,^05 we only\\n\\tjust met like an hour ago.",
+      "wink`*\\tdon't you know that friendship\\n\\ttakes time?",
+      "neutral`*\\tbesides,^05 don't you have\\n\\tanything <color=#FFFF00FF>more important</color> to do?"
+    ]
+  },
+  "topic2": "Doppelganger",
+  "topic2lines": {
+    "Array": [
+      "closed`*\\thave you heard of the\\n\\t<color=#FFFF00FF>multiverse</color> before?",
+      "neutral`*\\tit's something that sounds\\n\\treally sci-fi,^05 but it's\\n\\tliterally happening around us\\n\\tright now.",
+      "wink`*\\tin fact,^05 it's something i've\\n\\tstudied pretty extensively ever\\n\\tsince coming here.",
+      "rolleye`*\\twell,^05 when i came to where\\n\\ti live,^05 i mean.",
+      "side`*\\tuhh,^05 anyway.",
+      "closed`*\\tbecause of the opportunity of\\n\\tchoice and variation,^05 there are\\n\\tmultiple ways that events can\\n\\tplay out, and the different\\n\\tworlds we see are their impacts.",
+      "neutral`*\\tthey're known as <color=#FFFF00FF>alternate\\n\\tuniverses</color>.",
+      "side`*\\tif two of these universes are\\n\\tonly just slightly different,^05\\n\\tbut are otherwise similar,^05 then i\\n\\tcall those two <color=#FFFF00FF>alternate timelines</color>.",
+      "neutral`*\\tin the case of this place,^05 i'd say\\n\\tit's an alternate timeline to the\\n\\tuniverse i live in.",
+      "closed`*\\tit's...^10 obviously in a pretty bad\\n\\tstate.",
+      "closed`*\\tand i'm sure i don't have to tell\\n\\tyou that it clearly affected the\\n\\tme that lives here.",
+      "neutral`*\\thuh?^10\\n*\\twhy would the me from here be\\n\\tso violent?",
+      "concerned`*\\t... we probably shouldn't talk\\n\\tabout that right now."
+    ]
+  },
+  "topic3": "ICESLASH Weapon?",
+  "topic3lines": {
+    "Array": [
+      "neutral`*\\teveryone loves new weaponry,^05\\n\\tright?",
+      "side`*\\tespecially stuff that's useless\\n\\tto most people.",
+      "rolleye`*\\tlike the icicle that i'm selling.",
+      "wink`*\\tvery weak SLASH weapon.^10\\n*\\tit's as powerful as plastic.",
+      "side`*\\tbut hey,^05 i did say \"most people.\"",
+      "neutral`*\\tmaybe noelle could see use\\n\\tin it.",
+      "wink`*\\tafter all,^05 she does have <color=#FFFF00FF>ice\\n\\tmagic</color>.",
+      "side`*\\tmaybe she could harness its\\n\\tcoldness or something.^10\\n*\\tdunno."
+    ]
+  },
+  "topic4": "Royal Scientist",
+  "topic4lines": {
+    "Array": [
+      "side`*\\talphys?^10\\n*\\tshe's pretty cool.",
+      "wink`*\\tvery smart,^05 nice,^05 and cool.\\n*\\tnot surprised she has such\\n\\ta high position.",
+      "neutral`*\\tshe's helped me a lot\\n\\twith stuff i wasn't really\\n\\tknowledgeable on.",
+      "rolleye`*\\tshe's a bit of a dork.^10\\n*\\treally into anime and cartoons.",
+      "wink`*\\tbut hey,^05 aren't we all\\n\\ta bit dorky?",
+      "side`*\\tnow why you'd think she\\n\\twas a guy is beyond me.",
+      "neutral`*\\tthat'd be like me assuming\\n\\tyour gender,^05 kris.^10\\n*\\tit'd be pretty rude.",
+      "neutral`*\\tunless you were referring\\n\\tto an older royal scientist.",
+      "closed`*\\twhich is an unsolved case.",
+      "neutral`*\\ti don't know much about\\n\\tprevious positions,^05 other than\\n\\tthey were responsible for\\n\\tmaking the core.",
+      "side`*\\tthough at this point,^05 no\\n\\tone cares about who made the\\n\\tcore,^05 just that it's being\\n\\tmaintained.",
+      "wink`*\\tit's our only source of power,^05\\n\\tafter all."
+    ]
+  },
+  "sellGreet": "What would \nyou like \nto sell?",
+  "sellSuccess": "Thanks for \nthat!",
+  "sellReject": "Changed your \nmind?",
+  "sellDeny": "We are \nnot accepting \nthat."
+}

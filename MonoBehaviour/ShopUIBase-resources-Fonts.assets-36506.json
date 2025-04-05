@@ -1,0 +1,72 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 18555
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 2,
+    "m_PathID": 273
+  },
+  "m_Name": "",
+  "textSound": "snd_text",
+  "fontName": "DTM-Mono",
+  "greetMessage": "* Hello,^05 traveller.\n* How can I help you?",
+  "idleMessage": "* Take your time.",
+  "exitMessage": "* Thank you!\n^05* Come again!",
+  "buyGreet": "What would \nyou like \nto buy?",
+  "buySuccess": "Thank you \nso much!",
+  "buyReject": "Changed your \nmind?",
+  "buyNoMoney": "You don't \nhave enough \nGOLD.",
+  "buyNoSpace": "You don't \nhave enough \nspace.",
+  "item1ID": 0,
+  "item1price": 10,
+  "item1ShortDesc": "A cool item.",
+  "item2ID": 1,
+  "item2price": 20,
+  "item2ShortDesc": "A cool knife",
+  "item3ID": 2,
+  "item3price": 35,
+  "item3ShortDesc": "A cool self \ninsert",
+  "item4ID": 0,
+  "item4price": 10,
+  "item4ShortDesc": "Description",
+  "sellPrompt": {
+    "Array": [
+      "* Sorry,^05 we don't buy things\\n  here."
+    ]
+  },
+  "talkGreet": "What would \nyou like \nto talk \nabout?",
+  "topic1": "Talk1",
+  "topic1lines": {
+    "Array": [
+      "* This is Talk1.",
+      "* Woo..."
+    ]
+  },
+  "topic2": "Talk2",
+  "topic2lines": {
+    "Array": [
+      "* This is Talk2.",
+      "* Woo..."
+    ]
+  },
+  "topic3": "Talk3",
+  "topic3lines": {
+    "Array": [
+      "* This is Talk3.",
+      "* Woo..."
+    ]
+  },
+  "topic4": "Talk4",
+  "topic4lines": {
+    "Array": [
+      "* This is Talk4.",
+      "* Woo..."
+    ]
+  },
+  "sellGreet": "What would \nyou like \nto sell?",
+  "sellSuccess": "Thanks for \nthat!",
+  "sellReject": "Changed your \nmind?",
+  "sellDeny": "We are \nnot accepting \nthat."
+}

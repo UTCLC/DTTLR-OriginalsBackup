@@ -1,0 +1,82 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 80
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1053
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* (Knock knock knock)",
+      "*\\tam in here.^10\\n*\\tboing!",
+      "*\\t...^15\\n*\\tyou ^N, ^10yes?",
+      "*\\ti hear magic man want\\n\\tto see you.^05\\n*\\tbut who magic man?",
+      "*\\thuh?^05\\n*\\tyou name actually kris?",
+      "*\\tmaybe dream not real.^10\\n*\\tzoom!"
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_text",
+      "snd_txtsat",
+      "snd_txtsat",
+      "snd_txtsat",
+      "snd_txtsat",
+      "snd_txtsat"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "portraits": {
+    "Array": []
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 1,
+  "lines2": {
+    "Array": [
+      "* (Knock knock knock)",
+      "*\\tweird dream.^05\\n*\\tboing!"
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_text",
+      "snd_txtsat"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0,
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": []
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": 0,
+  "triggerFlag": -1,
+  "forceSecondaryAtFlag": -1,
+  "talkSprites": {
+    "Array": []
+  },
+  "talkFramerate": 6
+}

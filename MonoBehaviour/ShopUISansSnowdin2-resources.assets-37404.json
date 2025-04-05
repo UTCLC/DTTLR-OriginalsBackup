@@ -1,0 +1,84 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 20536
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 2,
+    "m_PathID": 278
+  },
+  "m_Name": "",
+  "textSound": "snd_txtsans",
+  "fontName": "sans",
+  "greetMessage": "*\\theya.^10\\n*\\thow can i help\\n\\tya?",
+  "idleMessage": "*\\tnot really doing\\n\\tanything else.",
+  "exitMessage": "wink`*\\tsee ya later.",
+  "buyGreet": "whaddya \\nwant?",
+  "buySuccess": "wink`thanks.",
+  "buyReject": "neutral`ya don't \\nwant that?",
+  "buyNoMoney": "side`you don't \\nhave the \\nmoney.",
+  "buyNoSpace": "neutral`you're \\ncarrying \\ntoo much \\nstuff.",
+  "item1ID": 33,
+  "item1price": 75,
+  "item1ShortDesc": "Changes AT\\nwith HP",
+  "item2ID": 34,
+  "item2price": 80,
+  "item2ShortDesc": "Icicle that\\nnever melts!",
+  "item3ID": 35,
+  "item3price": 30,
+  "item3ShortDesc": "Eat it twice!",
+  "item4ID": 37,
+  "item4price": 45,
+  "item4ShortDesc": "Q.C.'s recipe",
+  "sellPrompt": {
+    "Array": [
+      "* Sorry,^05 we don't buy things\n  here."
+    ]
+  },
+  "talkGreet": "wink`yeah, i \\ncan talk.",
+  "topic1": "About yourself",
+  "topic1lines": {
+    "Array": [
+      "neutral`*\\ti think i've seen enough\\n\\tof your adventures to\\n\\tfigure out that your name\\n\\tis kris.",
+      "wink`*\\tbut we can get better\\n\\taquainted when i'm NOT\\n\\tcovering for someone."
+    ]
+  },
+  "topic2": "What're you doing",
+  "topic2lines": {
+    "Array": [
+      "closed`*\\twhy am i working a random\\n\\todd job?",
+      "side`*\\ti'm covering for the shop\\n\\towner,^05 q.c.",
+      "rolleye`*\\ti owe her for,^05 uhh...^10\\n\\tpapyrus getting into some\\n\\ttrouble.",
+      "wink`*\\tit's fine,^05 though.\\n*\\tpay's pretty good.",
+      "closed`*\\t... but i get the odd feeling\\n\\tthat i'm forgetting to do\\n\\tsomething.",
+      "closed`*\\tsomething something\\n\\tcalibrating my puzzles...",
+      "wink`*\\teh,^05 whatever."
+    ]
+  },
+  "topic3": "Directions",
+  "topic3lines": {
+    "Array": [
+      "side`*\\tfunnily enough,^05 we're at the\\n\\tend of the forest.",
+      "neutral`*\\tpast town is where we enter\\n\\tthe marsh.",
+      "closed`*\\tit's called \"waterfall.\"",
+      "wink`*\\tprolly cuz of all the\\n\\twaterfalls.",
+      "neutral`*\\ti hear the royal guard head\\n\\tis doing some searching around\\n\\tthere.",
+      "wink`*\\tkeep an eye out for her."
+    ]
+  },
+  "topic4": "Doppelganger",
+  "topic4lines": {
+    "Array": [
+      "closed`*\\tlooks like you guys took\\n\\tcare of evil me.",
+      "neutral`*\\twent about as well as it\\n\\tcould've.",
+      "closed`*\\tcuz i dunno if the...^10\\n\\tother option would be pretty.",
+      "closed`*\\tor even satisfy the justice\\n\\titch.",
+      "wink`*\\tbut who can really say?^10\\n*\\twhat's been done, ^10\\n\\t's been done."
+    ]
+  },
+  "sellGreet": "watcha got?",
+  "sellSuccess": "wink`thanks for \\nthat.",
+  "sellReject": "side`not that?",
+  "sellDeny": "closed`eh, no \\nthanks."
+}

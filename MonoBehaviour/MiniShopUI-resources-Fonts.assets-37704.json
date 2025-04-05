@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 20482
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 2,
+    "m_PathID": 1442
+  },
+  "m_Name": "",
+  "itemIcon": {
+    "m_FileID": 0,
+    "m_PathID": 11334
+  },
+  "weaponIcon": {
+    "m_FileID": 0,
+    "m_PathID": 8765
+  },
+  "armorIcon": {
+    "m_FileID": 0,
+    "m_PathID": 9995
+  }
+}

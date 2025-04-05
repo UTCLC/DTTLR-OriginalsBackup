@@ -1,0 +1,100 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 10
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1462
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* Welcome to the headquarters of\\n  Happy-Happyism.",
+      "* One day, Mr. Carpainter\\n  received a revelation.",
+      "* He now speaks the real truth.",
+      "* That sounds so dumb."
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_text",
+      "snd_text",
+      "snd_text",
+      "snd_txtsus"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "",
+      "",
+      "",
+      "su_neutral"
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 1,
+  "lines2": {
+    "Array": [
+      "* Now that you put it like\\n  that...",
+      "* I'm actually more convinced.\\n* Screw you!"
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_text",
+      "snd_text"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0,
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": []
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": 0,
+  "triggerFlag": -1,
+  "forceSecondaryAtFlag": -1,
+  "talkSprites": {
+    "Array": []
+  },
+  "talkFramerate": 6,
+  "maxPos": {
+    "x": 14.82,
+    "y": -11.46,
+    "z": 0.0
+  },
+  "minPos": {
+    "x": 8.26,
+    "y": -8.94,
+    "z": 0.0
+  },
+  "waitLength": 35,
+  "walkLength": 15,
+  "walkSpeed": 4,
+  "sortingOrderOffset": 0,
+  "forceDisableWander": 0,
+  "defaultLook": {
+    "x": 0.0,
+    "y": 0.0
+  }
+}

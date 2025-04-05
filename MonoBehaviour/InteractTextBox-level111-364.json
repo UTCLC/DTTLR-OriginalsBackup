@@ -1,0 +1,100 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 63
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1472
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* Do you think Santa will ever\\n  deliver my wish.",
+      "* What would that be?",
+      "* My sister's return.",
+      "* She had fallen down one day,^05\\n  and a doctor healed her\\n  to health.",
+      "* But she never came back and\\n  the doctor won't respond to\\n  our calls.",
+      "* I'm...^05 so sorry.",
+      "* I'm sure you'll see\\n  her again someday!",
+      "* Really downer way\\n  to introduce yourself.",
+      "* It's why I rarely go out\\n  anymore.^05\\n* Sigh..."
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_text",
+      "snd_txtnoe",
+      "snd_text",
+      "snd_text",
+      "snd_text",
+      "snd_txtnoe",
+      "snd_txtnoe",
+      "snd_txtsus",
+      "snd_text"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "",
+      "no_curious",
+      "",
+      "",
+      "",
+      "no_shocked",
+      "no_confused_side",
+      "su_side_sweat",
+      ""
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 1,
+  "lines2": {
+    "Array": [
+      "* I'm at least thankful that\\n  my brother is still alive\\n  and well.",
+      "* He's the reason why I\\n  still get out of bed."
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_text"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": []
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": 0,
+  "triggerFlag": -1,
+  "forceSecondaryAtFlag": -1,
+  "talkSprites": {
+    "Array": [
+      {
+        "m_FileID": 2,
+        "m_PathID": 8555
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 9193
+      }
+    ]
+  },
+  "talkFramerate": 6
+}

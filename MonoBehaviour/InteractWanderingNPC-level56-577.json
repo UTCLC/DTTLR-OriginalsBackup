@@ -1,0 +1,107 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 79
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1462
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* When I painted everything\\n  blue,^05 as Mr. Carpainter said,^05\\n  my wife returned home!",
+      "* (Why is he telling\\n  us this stuff???)"
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_text",
+      "snd_txtnoe"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0,
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "",
+      "no_happy"
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 0,
+  "lines2": {
+    "Array": [
+      "* Hey man,^05 no judging!",
+      "* What if I judged YOUR\\n  religion?",
+      "* Dude,^05 if you're doing\\n  stuff like sacrifices,^05\\n  you're in a cult.",
+      "* You aren't doing doing\\n  sacrifices,^05 right?",
+      "* ..."
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_text",
+      "snd_text",
+      "snd_txtsus",
+      "snd_txtsus",
+      "snd_text"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": [
+      "",
+      "",
+      "su_annoyed",
+      "su_side_sweat",
+      ""
+    ]
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": 0,
+  "triggerFlag": -1,
+  "forceSecondaryAtFlag": -1,
+  "talkSprites": {
+    "Array": []
+  },
+  "talkFramerate": 6,
+  "maxPos": {
+    "x": 40.4,
+    "y": -37.2,
+    "z": 0.0
+  },
+  "minPos": {
+    "x": 25.4,
+    "y": -40.5,
+    "z": 0.0
+  },
+  "waitLength": 45,
+  "walkLength": 35,
+  "walkSpeed": 3,
+  "sortingOrderOffset": 0,
+  "forceDisableWander": 0,
+  "defaultLook": {
+    "x": 0.0,
+    "y": 0.0
+  }
+}

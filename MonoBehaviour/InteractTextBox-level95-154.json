@@ -1,0 +1,86 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1472
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* What.",
+      "* So OTHER people are\\n  seeing him???",
+      "* Who even is this,^05\\n  exactly?",
+      "* He looks a lot\\n  like Asriel.",
+      "* I remember he appeared\\n  in my dream yesterday.",
+      "* He's uhhhhhh^05 not\\n  important.",
+      "* Okay,^05 Susie."
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_txtkrs",
+      "snd_txtsus",
+      "snd_txtnoe",
+      "snd_txtnoe",
+      "snd_txtnoe",
+      "snd_txtsus",
+      "snd_txtnoe"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "kr_weird",
+      "su_pissed",
+      "no_curious",
+      "no_thinking",
+      "no_thinking",
+      "su_side_sweat",
+      "no_curious"
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 1,
+  "lines2": {
+    "Array": [
+      "* Uhh...^10 doobie?"
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_txtsus"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": [
+      "su_inquisitive"
+    ]
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": 0,
+  "triggerFlag": 260,
+  "forceSecondaryAtFlag": 260,
+  "talkSprites": {
+    "Array": []
+  },
+  "talkFramerate": 6
+}

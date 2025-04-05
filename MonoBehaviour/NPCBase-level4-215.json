@@ -1,0 +1,134 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 26
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 203
+  },
+  "m_Name": "",
+  "lines": {
+    "Array": [
+      "* Do not speak to me.",
+      "* For I am...",
+      "* <color=#ff0000ff>DARK TORIEL</color>."
+    ]
+  },
+  "sound": {
+    "Array": [
+      "snd_txttor",
+      "snd_txttor",
+      "snd_txttor"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0,
+      0,
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "tori_mad",
+      "",
+      "tori_pissed"
+    ]
+  },
+  "eventType": 0,
+  "eventData": 0,
+  "optionA": "",
+  "optionAItem": 0,
+  "optionALines": {
+    "Array": []
+  },
+  "optionASound": {
+    "Array": []
+  },
+  "optionASpeed": {
+    "Array": []
+  },
+  "optionAPortraits": {
+    "Array": []
+  },
+  "optionB": "",
+  "optionBItem": 0,
+  "optionBLines": {
+    "Array": []
+  },
+  "optionBSound": {
+    "Array": []
+  },
+  "optionBSpeed": {
+    "Array": []
+  },
+  "optionBPortraits": {
+    "Array": []
+  },
+  "ctmLines": {
+    "Array": [
+      "* (You're carrying too much.)"
+    ]
+  },
+  "ctmSound": {
+    "Array": []
+  },
+  "ctmSpeed": {
+    "Array": []
+  },
+  "ctmPortraits": {
+    "Array": [
+      ""
+    ]
+  },
+  "defeatStealLines": {
+    "Array": []
+  },
+  "defeatStealSound": {
+    "Array": []
+  },
+  "defeatStealSpeed": {
+    "Array": []
+  },
+  "defeatStealPortraits": {
+    "Array": []
+  },
+  "defeatSaveLines": {
+    "Array": []
+  },
+  "defeatSaveSound": {
+    "Array": []
+  },
+  "defeatSaveSpeed": {
+    "Array": []
+  },
+  "defeatSavePortraits": {
+    "Array": []
+  },
+  "defeatKilledLines": {
+    "Array": []
+  },
+  "defeatKilledSound": {
+    "Array": []
+  },
+  "defeatKilledSpeed": {
+    "Array": []
+  },
+  "defeatKilledPortraits": {
+    "Array": []
+  },
+  "altLines": {
+    "Array": []
+  },
+  "altSounds": {
+    "Array": []
+  },
+  "altSpeed": {
+    "Array": []
+  },
+  "altPortraits": {
+    "Array": []
+  }
+}

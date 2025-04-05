@@ -1,0 +1,115 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1142
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "WOULD YOU LIKE A \\nHINT?",
+      "WELL,^05 THAT'S TOO \\nBAD FOR YOU!",
+      "BECAUSE I AM STILL \\nUNSURE OF THE \\nSOLUTION MYSELF.",
+      "* Well hurry it up.",
+      "WELL I'M TRYING!!!"
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_txtpap",
+      "snd_txtpap",
+      "snd_txtpap",
+      "snd_txtsus",
+      "snd_txtpap"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "ufpap_neutral",
+      "ufpap_evil",
+      "ufpap_side",
+      "su_annoyed",
+      "ufpap_mad"
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 1,
+  "lines2": {
+    "Array": [
+      "* Just ignore him and\\n  do the puzzle yourself,^05\\n  Kris.",
+      "OH NO YOU DON'T!!!",
+      "* What are you?^05\\n* Berdly?",
+      "WHAT THE HELL IS \\nA BERDLY?",
+      "* You're acting pretty\\n  cocky about this puzzle.",
+      "* Just like someone we\\n  know.",
+      "WELL,^05 I AM UNSURE \\nOF IF THIS PUZZLE \\nIS DEADLY OR NOT.",
+      "AND I WANT TO KILL \\nKRIS WITH PURE \\nCALCULATED EFFORTS.",
+      "* You're taking this\\n  way too seriously.",
+      "OH COME ON!!!^05\\nIT'S CULTURE!^05\\nRESPECT IT!!!",
+      "* (The hell is so\\n  respectable about\\n  killing things???)"
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_txtsus",
+      "snd_txtpap",
+      "snd_txtnoe",
+      "snd_txtpap",
+      "snd_txtsus",
+      "snd_txtsus",
+      "snd_txtpap",
+      "snd_txtpap",
+      "snd_txtsus",
+      "snd_txtpap",
+      "snd_txtsus"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": [
+      "su_annoyed",
+      "ufpap_mad",
+      "no_playful",
+      "ufpap_side",
+      "su_smile",
+      "su_smile_side",
+      "ufpap_side",
+      "ufpap_neutral",
+      "su_annoyed",
+      "ufpap_mad",
+      "su_inquisitive"
+    ]
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": 234,
+  "vanishAtCount": 1,
+  "triggerFlag": -1,
+  "forceSecondaryAtFlag": -1,
+  "talkSprites": {
+    "Array": []
+  },
+  "talkFramerate": 6,
+  "stare": 0,
+  "defaultDirection": {
+    "x": 1.0,
+    "y": 0.0
+  }
+}

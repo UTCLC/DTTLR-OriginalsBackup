@@ -1,0 +1,76 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 32
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1434
+  },
+  "m_Name": "",
+  "save": {
+    "zoneName": "",
+    "susieActive": 0,
+    "noelleActive": 0,
+    "name": "",
+    "exp": 0,
+    "items": {
+      "Array": []
+    },
+    "equipItems": {
+      "Array": []
+    },
+    "boxItems": {
+      "Array": []
+    },
+    "party": {
+      "Array": []
+    },
+    "hp": {
+      "Array": []
+    },
+    "weapon": {
+      "Array": []
+    },
+    "armor": {
+      "Array": []
+    },
+    "playTime": 0,
+    "zone": 0,
+    "gold": 0,
+    "deaths": 0
+  },
+  "checkpointSave": {
+    "zoneName": "",
+    "susieActive": 0,
+    "noelleActive": 0,
+    "name": "",
+    "exp": 0,
+    "items": {
+      "Array": []
+    },
+    "equipItems": {
+      "Array": []
+    },
+    "boxItems": {
+      "Array": []
+    },
+    "party": {
+      "Array": []
+    },
+    "hp": {
+      "Array": []
+    },
+    "weapon": {
+      "Array": []
+    },
+    "armor": {
+      "Array": []
+    },
+    "playTime": 0,
+    "zone": 0,
+    "gold": 0,
+    "deaths": 0
+  }
+}

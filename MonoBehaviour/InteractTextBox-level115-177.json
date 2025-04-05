@@ -1,0 +1,104 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 24
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1472
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* A human hunt this early,^05\\n  of all times?",
+      "* This is ridiculous.",
+      "* There hasn't been a human\\n  sighted down here in forever.",
+      "* Most monsters have no clue\\n  what they even look like.",
+      "* ...^05 Then how could they\\n  tell?",
+      "* Dr. Alphys has studied a lot\\n  about humanity.",
+      "* I think if there's anyone\\n  we can trust about this,^05\\n  it's Alphys.",
+      "* (Great...)"
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_text",
+      "snd_text",
+      "snd_text",
+      "snd_text",
+      "snd_txtnoe",
+      "snd_text",
+      "snd_text",
+      "snd_txtsus"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "",
+      "",
+      "",
+      "",
+      "no_thinking",
+      "",
+      "",
+      "su_inquisitive"
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 1,
+  "lines2": {
+    "Array": [
+      "* As cool and vital as she is,^05\\n  I wish she'd just answer our\\n  letters."
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_text"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": []
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": 0,
+  "triggerFlag": -1,
+  "forceSecondaryAtFlag": -1,
+  "talkSprites": {
+    "Array": [
+      {
+        "m_FileID": 2,
+        "m_PathID": 10896
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 12425
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 10896
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 8199
+      }
+    ]
+  },
+  "talkFramerate": 6
+}

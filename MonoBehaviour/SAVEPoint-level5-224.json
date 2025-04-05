@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 23
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1324
+  },
+  "m_Name": "",
+  "doPhrase": 0,
+  "phrases": {
+    "Array": [
+      "* (You're filled with\n  determination.)"
+    ]
+  },
+  "relativeSpawn": "down",
+  "force": 0,
+  "allowOblitModification": 1
+}

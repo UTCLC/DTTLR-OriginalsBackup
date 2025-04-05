@@ -1,0 +1,168 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 21021
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 2,
+    "m_PathID": 366
+  },
+  "m_Name": "",
+  "sprites": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 7394
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 12797
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 12911
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 13014
+      }
+    ]
+  },
+  "zapSprites": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 12426
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 12905
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 13009
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 13101
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 13176
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 13245
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 13309
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 13371
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 13430
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 13483
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 13534
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 13585
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 13633
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 13680
+      }
+    ]
+  },
+  "piranhaSprites": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 11885
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 12894
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 13001
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 13094
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 13170
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 13239
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 13303
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 13366
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 13425
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 13479
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 13530
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 13581
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 13629
+      }
+    ]
+  },
+  "spearSprites": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 11522
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 7619
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 11176
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 10499
+      }
+    ]
+  }
+}

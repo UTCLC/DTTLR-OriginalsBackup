@@ -1,0 +1,39 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 51
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 465
+  },
+  "m_Name": "",
+  "lines": {
+    "Array": [
+      "* I said RIGHT,^05 not\\n  LEFT!!!",
+      "* Hope you didn't get\\n  lost.",
+      "* Just...^05 go back and\\n  do what you did,^05\\n  but the <color=#FFFF00FF>other way</color>."
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_txtsus"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "su_angry",
+      "su_annoyed",
+      "su_side"
+    ]
+  },
+  "remarks": {
+    "Array": []
+  }
+}

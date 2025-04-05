@@ -1,0 +1,89 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 25
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1472
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* I had absolutely no idea that\\n  Grillby's had a breakfast menu.",
+      "* It's actually not half bad!^05\\n* Not super greasy,^05 either.",
+      "* I wonder if it has\\n  something that I'd\\n  actually like."
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_text",
+      "snd_text",
+      "snd_txtnoe"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "",
+      "",
+      "no_weird"
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 1,
+  "lines2": {
+    "Array": [
+      "* I usually grab a bite from\\n  Q.C.'s shop in the mornings,^05\\n  but Sans is covering for her.",
+      "* I love her Cinnamon Buns,^05 but\\n  I'm absolutely NOT getting them\\n  from Sans.",
+      "* Yeah,^05 I don't blame\\n  you."
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_text",
+      "snd_text",
+      "snd_txtsus"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": [
+      "",
+      "",
+      "su_smirk_sweat"
+    ]
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": 0,
+  "triggerFlag": -1,
+  "forceSecondaryAtFlag": -1,
+  "talkSprites": {
+    "Array": [
+      {
+        "m_FileID": 2,
+        "m_PathID": 9963
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 12653
+      }
+    ]
+  },
+  "talkFramerate": 6
+}

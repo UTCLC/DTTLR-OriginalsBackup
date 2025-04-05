@@ -1,0 +1,89 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 11
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1472
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* Oh,^05 hey Kris.",
+      "* Umm...^10 Noelle's fine.",
+      "* But these two bozos\\n  won't let us through\\n  without you.",
+      "* They've just been\\n  arguing about killing\\n  things while you were...",
+      "* Uhh...^05 nevermind.",
+      "* (But for real,^05 Noelle\\n  doesn't wanna be near\\n  you because of this.)",
+      "* (We've gotta be close\\n  enough to a break to\\n  talk about this shit...)",
+      "* (Can't really keep going\\n  like this nonstop,^05\\n  right?)"
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_txtsus",
+      "snd_txtsus",
+      "snd_txtsus",
+      "snd_txtsus",
+      "snd_txtsus",
+      "snd_txtsus",
+      "snd_txtsus",
+      "snd_txtsus"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "su_smile",
+      "su_smile_sweat",
+      "su_annoyed",
+      "su_smirk_sweat",
+      "su_side_sweat",
+      "su_dejected",
+      "su_dejected",
+      "su_side_sweat"
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 1,
+  "lines2": {
+    "Array": [
+      "* Let's just get this\\n  over with."
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_txtsus"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": [
+      "su_annoyed"
+    ]
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": 0,
+  "triggerFlag": -1,
+  "forceSecondaryAtFlag": -1,
+  "talkSprites": {
+    "Array": []
+  },
+  "talkFramerate": 6
+}

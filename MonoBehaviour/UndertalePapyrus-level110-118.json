@@ -1,0 +1,113 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 16
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1408
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "MY OH MY...",
+      "AS MUCH AS I \\nLOVE WORKING ON \\nPUZZLES...",
+      "IT CAN GET QUITE \\nEXHAUSTING!",
+      "CASE IN POINT...",
+      "POLISHING THIS \\nCANNON IS VERY \\nBORING!!!",
+      "SAY,^05 IF YOU CAN \\nBRING ME SOMETHING \\nINTERESTING...",
+      "I MAY DO SOMETHING \\nINTERESTING IN \\nRETURN!",
+      "* Like...?",
+      "LIKE A FREE REWARD!",
+      "EVERYONE LOVES FREE \\nREWARDS,^04 RIGHT?",
+      "WELL IT COULD BE \\nYOURS FOR ONE \\nIMPRESSED PAPYRUS!",
+      "THOUGH IT IS YOUR \\nCHOICE."
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_txtpap",
+      "snd_txtpap",
+      "snd_txtpap",
+      "snd_txtpap",
+      "snd_txtpap",
+      "snd_txtpap",
+      "snd_txtpap",
+      "snd_txtsus",
+      "snd_txtpap",
+      "snd_txtpap",
+      "snd_txtpap",
+      "snd_txtpap"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits": {
+    "Array": [
+      "pap_side",
+      "pap_laugh",
+      "pap_laugh",
+      "pap_side",
+      "pap_mad",
+      "pap_neutral",
+      "pap_neutral",
+      "su_smile_side",
+      "pap_neutral",
+      "pap_laugh",
+      "pap_side",
+      "pap_neutral"
+    ]
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 1,
+  "lines2": {
+    "Array": [
+      "YOU DO NOT HAVE \\nANYTHING FOR ME \\nYET?",
+      "WELL I AM SURE \\nYOU CAN FIND \\nSOMETHING!"
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_txtpap",
+      "snd_txtpap"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": [
+      "pap_side",
+      "pap_neutral"
+    ]
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": 0,
+  "triggerFlag": 298,
+  "forceSecondaryAtFlag": 298,
+  "talkSprites": {
+    "Array": [
+      {
+        "m_FileID": 2,
+        "m_PathID": 12502
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 7326
+      }
+    ]
+  },
+  "talkFramerate": 6
+}

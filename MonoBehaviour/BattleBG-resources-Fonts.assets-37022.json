@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 17893
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 2,
+    "m_PathID": 386
+  },
+  "m_Name": "",
+  "type": 1,
+  "intensity": 0.3,
+  "speed": 60.0,
+  "color": {
+    "r": 0.1333,
+    "g": 0.694,
+    "b": 0.298,
+    "a": 1.0
+  },
+  "isBoss": 0
+}

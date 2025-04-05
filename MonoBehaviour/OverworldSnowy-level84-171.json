@@ -1,0 +1,42 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 36
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1292
+  },
+  "m_Name": "",
+  "defeatFlagID": 201,
+  "counterFlagID": 202,
+  "killExhaustCount": 1,
+  "battleId": 61,
+  "npcRespawn": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "hardModeBattleID": -1,
+  "hardModeNpcRespawn": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "instantSpareRespawn": 0,
+  "startMove": {
+    "x": -1.0,
+    "y": 0.0
+  },
+  "minBound": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "maxBound": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "moving": 0,
+  "doMovement": 0,
+  "startWithAnim": 0,
+  "feral": 0
+}

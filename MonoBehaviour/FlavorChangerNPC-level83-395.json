@@ -1,0 +1,100 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 85
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 908
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* Hello there,^05 young travellers!",
+      "* I am not your enemy,^05 but an\\n  average mole.",
+      "* I would like to add a bit\\n  of flavor to your experience.",
+      "* Or would a bit of advice be\\n  more useful to you...?",
+      "* I'm willing to help either way!"
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_text"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits": {
+    "Array": []
+  },
+  "remarks": {
+    "Array": []
+  },
+  "left": "Yes",
+  "leftOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "right": "No",
+  "rightOffset": {
+    "x": 20.0,
+    "y": 0.0
+  },
+  "up": "Advice",
+  "upOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "down": "",
+  "downOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "centerOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "talkSprites": {
+    "Array": [
+      {
+        "m_FileID": 2,
+        "m_PathID": 8652
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 10583
+      }
+    ]
+  },
+  "talkFramerate": 6,
+  "adviceLines": {
+    "Array": [
+      "* It's a bit jarring to see the\\n  enemies in battle appearing <color=#FF0000FF>RED</color>\\n  instead of the usual WHITE.",
+      "* That's because they're <color=#FF0000FF>HOSTILE</color>!",
+      "* When they're <color=#FF0000FF>HOSTILE</color>,^05 they\\n  won't even consider mercy\\n  until you calm them down.",
+      "* Some will snap out of it when\\n  they reach a certain point of\\n  health,^05 but some won't.",
+      "* That means some enemies won't\\n  become sparable at low enough\\n  health.",
+      "* So you better be willing to\\n  talk if you wanna get by\\n  without hurting them.",
+      "* That being said,^05 if a hostile\\n  enemy is <color=#00A2E8FF>TIRED</color>,^05 you can still\\n  make it fall asleep.",
+      "* If you can find out how\\n  to do that,^05 that is."
+    ]
+  },
+  "adviceSounds": {
+    "Array": [
+      "snd_text"
+    ]
+  },
+  "adviceSpeed": {
+    "Array": [
+      0
+    ]
+  },
+  "advicePortraits": {
+    "Array": []
+  }
+}

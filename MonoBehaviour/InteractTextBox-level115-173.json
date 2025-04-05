@@ -1,0 +1,77 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 17
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1472
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* So the fish lady from the\\n  guard came to tell the rest\\n  of 'em about a human hunt?",
+      "* And one of them got so\\n  excited that their neck\\n  starting growing in size.",
+      "* They fled the place,^05 taking\\n  the chair with them!",
+      "* I wonder how Grillby deals with\\n  these guys."
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_text"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits": {
+    "Array": []
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 1,
+  "lines2": {
+    "Array": [
+      "* Actually,^05 I heard that the fish\\n  lady pays the dogs's tab.",
+      "* I guess that explains why he\\n  puts up with them all the\\n  time."
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_text"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": []
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": 0,
+  "triggerFlag": -1,
+  "forceSecondaryAtFlag": -1,
+  "talkSprites": {
+    "Array": [
+      {
+        "m_FileID": 2,
+        "m_PathID": 11312
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 8261
+      }
+    ]
+  },
+  "talkFramerate": 6
+}

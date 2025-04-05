@@ -1,0 +1,89 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 12
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1472
+  },
+  "m_Name": "",
+  "enabled": 1,
+  "lines": {
+    "Array": [
+      "* Jester?^10\\n* No,^05 I'm what some may\\n  call a <color=#FF0000FF>demon</color>.",
+      "* Just because I smile all\\n  the time doesn't mean I'm\\n  a clown.",
+      "* It even haunts me in my\\n  dreams.",
+      "* Being called JEVIL II by\\n  someone named...^10\\n  <color=#FFFF00FF>something Quetzalcoatl III</color>.",
+      "* I forgot what their first\\n  name was...^05\\n* Something with a G?",
+      "* I don't know,^05 but it keeps\\n  showing up and punching me\\n  in the face."
+    ]
+  },
+  "sounds": {
+    "Array": [
+      "snd_text"
+    ]
+  },
+  "speed": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits": {
+    "Array": []
+  },
+  "remarks": {
+    "Array": []
+  },
+  "secondaryLines": 1,
+  "lines2": {
+    "Array": [
+      "* How did you remember\\n  the stupid ass last\\n  name.",
+      "* Because it was so stupid\\n  that it's honestly kinda\\n  funny.",
+      "* My friend hates the story,^05\\n  but she also hates Sans's\\n  jokes.",
+      "* So I guess it's on that\\n  caliber,^05 haha."
+    ]
+  },
+  "sounds2": {
+    "Array": [
+      "snd_txtsus",
+      "snd_text",
+      "snd_text",
+      "snd_text"
+    ]
+  },
+  "speed2": {
+    "Array": [
+      0
+    ]
+  },
+  "portraits2": {
+    "Array": [
+      "su_inquisitive",
+      "",
+      "",
+      ""
+    ]
+  },
+  "remarks2": {
+    "Array": []
+  },
+  "vanishAtFlag": -1,
+  "vanishAtCount": 0,
+  "triggerFlag": -1,
+  "forceSecondaryAtFlag": -1,
+  "talkSprites": {
+    "Array": [
+      {
+        "m_FileID": 2,
+        "m_PathID": 11700
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 9218
+      }
+    ]
+  },
+  "talkFramerate": 6
+}
